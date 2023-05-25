@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Dates</name>
+   <tag></tag>
+   <elementGuidId>3e50554d-67ea-4496-883c-eee922d3b733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-secondary.icon-button.btn-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3e71c3d9-caf2-48c5-aab4-c2970df8fcfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-secondary icon-button btn-bold</value>
+      <webElementGuid>268c22c9-1ee7-4d18-b48d-6700b7ca2e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add Dates</value>
+      <webElementGuid>f874b457-88fd-426e-a777-9973bb625684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Dates</value>
+      <webElementGuid>38a5246e-a897-4b7b-94bb-4f9151177df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container purchase-dates-wrapper&quot;]/div[@class=&quot;content-section main-wrapper agent-basic-detail-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder&quot;]/div[@class=&quot;btn-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary icon-button btn-bold&quot;]</value>
+      <webElementGuid>a6c3fb47-559b-45b4-8d1e-dc8724922038</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>da2a39fe-a005-46e0-9989-0223983f46ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[2]/following::button[1]</value>
+      <webElementGuid>92781b4f-5b92-497a-bc11-0a5a7b6b68ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Preview'])[1]/following::button[1]</value>
+      <webElementGuid>783f6fed-484a-43e7-9d78-2424f826edd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>6f24770a-cac3-4521-8567-92d9a18f9d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Add Dates' and (text() = 'Add Dates' or . = 'Add Dates')]</value>
+      <webElementGuid>73320dae-9c6c-4209-87ab-7c22bb0a6707</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Container Mode Selection</name>
+   <tag></tag>
+   <elementGuidId>0abf7af4-2a91-4201-a23c-8cab919fda58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[3]/div/a[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>847caad8-b5da-4779-971a-c4440f2dbae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow-tab</value>
+      <webElementGuid>4959c512-f895-4331-8aba-2125ada3b867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Container Mode Selection</value>
+      <webElementGuid>66ee470f-496d-4627-a69e-6e879eebc407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;main-header-content-holder large-header&quot;]/div[@class=&quot;arrow-tab-container&quot;]/div[@class=&quot;arrow-tab-holder&quot;]/a[@class=&quot;arrow-tab-border po-review-tab&quot;]/div[@class=&quot;arrow-tab&quot;]</value>
+      <webElementGuid>56ca4677-831d-4cb7-aceb-ad5c4366a4c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[3]/div/a[5]/div[2]</value>
+      <webElementGuid>ede26b1c-2c35-482f-be75-8816b09bd743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details Confirmation'])[1]/following::div[2]</value>
+      <webElementGuid>a2564390-d150-42b6-b783-cd184f57d45e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details'])[1]/following::div[4]</value>
+      <webElementGuid>f1eb4c6d-9c4e-4a7b-9704-5f25ad60ae8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required Details'])[1]/preceding::div[1]</value>
+      <webElementGuid>5f17e2f9-22f0-4cfd-936d-0c1040e4f5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Container Mode Selection']/parent::*</value>
+      <webElementGuid>a86d1dd2-c330-4d9b-922c-730518a0cc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div[2]</value>
+      <webElementGuid>e26dc63f-e178-4b2f-a2f8-757f6917d856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Container Mode Selection' or . = 'Container Mode Selection')]</value>
+      <webElementGuid>dd09a264-a4b8-4667-a423-03b985076869</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_check mark</name>
+   <tag></tag>
+   <elementGuidId>9100eb47-7fb1-4025-8e5f-b53d00802a0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-child-data > div.checkbox-item > label.app-check-wrapper > div.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div[2]/div/div/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca437450-a4f5-41fc-94eb-ea6e53ea04f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>8ddfc358-1b30-4afd-9a6e-e4d2a6668955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check mark</value>
+      <webElementGuid>190377bd-cba0-4a50-a39f-a73a8d6ec84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-sailing-schelude&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;lcl-sailing-container&quot;]/div[@class=&quot;booking-sailing-schelude-container air-booking-sailing-schelude&quot;]/div[@class=&quot;air-booking-flight-approval-grid&quot;]/div[@class=&quot;view-list-grid air-flight-view-list-grid client-view&quot;]/div[@class=&quot;list-grid six-column-with-checkbox&quot;]/div[@class=&quot;grid-child-item col-grid-checkbox-item&quot;]/div[@class=&quot;grid-child-data&quot;]/div[@class=&quot;checkbox-item&quot;]/label[@class=&quot;app-check-wrapper&quot;]/div[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>e0f748af-050e-48d0-baa7-82a01a9ebe30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div[2]/div/div/div/div/label/div</value>
+      <webElementGuid>3018812a-8459-4a0a-8596-1d22fd03f01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose a schedule to proceed with approval'])[1]/following::div[6]</value>
+      <webElementGuid>e5ac3307-d157-4bf2-b3b5-2bcbd85c3c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='carrier-anj-01'])[1]/preceding::div[2]</value>
+      <webElementGuid>b297e248-4cba-471e-aa46-f1eb4d3dab60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='f-1'])[1]/preceding::div[3]</value>
+      <webElementGuid>737984e1-926b-40a4-adeb-10255252c22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div[2]/div/div/div/div/label/div</value>
+      <webElementGuid>2f614f21-3a91-4df3-98d7-2e89c04d1686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'check mark' or . = 'check mark')]</value>
+      <webElementGuid>4c8c0969-c056-4add-bd9a-e66cc0c704cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

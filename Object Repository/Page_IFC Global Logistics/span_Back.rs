@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back</name>
+   <tag></tag>
+   <elementGuidId>1d20f976-b62d-4d22-bc56-fcd7e66423fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-text.footer-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[3]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d514482e-2f3c-4969-9f20-80c348dc3d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text footer-button-text</value>
+      <webElementGuid>f1fcbe30-10af-481a-866c-a91d0b473681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>53dfb02a-c344-4431-9e2a-353345cfc3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-confirmation&quot;]/div[@class=&quot;footer-bootom-row&quot;]/div[@class=&quot;footer-button-holder&quot;]/a[@class=&quot;app-btn app-btn-secondary footer-btn footer-btn-container&quot;]/span[@class=&quot;button-text footer-button-text&quot;]</value>
+      <webElementGuid>f18b8312-112a-431e-b7e2-712d3cc6a458</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/a/span</value>
+      <webElementGuid>ab9ca915-9e68-458e-bdae-6bbd0d2552a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sydney(AUSYD)'])[1]/following::span[1]</value>
+      <webElementGuid>846e6353-8e73-43d0-8040-9e2379ac4481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melbourne(AUMEL)'])[1]/following::span[1]</value>
+      <webElementGuid>b5b8f0a5-07b4-4aa4-8ca7-9fd740397b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/a/span</value>
+      <webElementGuid>4408a2ae-8522-45d1-b67c-c65d77262372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>ce0d9ba4-ec87-4b7b-bb14-7965c8f86dac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

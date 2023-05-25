@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_IFC GlobalExpand row</name>
+   <tag></tag>
+   <elementGuidId>de29a438-4a48-4cc1-8c85-49aa280ffb38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.menu-btn.app-btn.select-modal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7c2f5665-6c83-47c1-8d00-ad3ff6054226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-btn app-btn select-modal</value>
+      <webElementGuid>1a757f06-79ba-40ce-a7a7-22f27cf71865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fb7e6a32-cd98-4a88-ba9c-0ffdfd740228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IFC GlobalExpand row</value>
+      <webElementGuid>5967103e-045b-4130-903f-08ffaf448418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name_div&quot;)/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;dropdown-wrap modal-dropdown  search-toast-content-holder modal-dropdown-btn quotation-dropdown&quot;]/button[@class=&quot;menu-btn app-btn select-modal&quot;]</value>
+      <webElementGuid>1a017bf3-feed-4851-81e6-69e492690438</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>61d1b4e9-ca0a-46d8-81ab-0cf521a8a256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name_div']/div[2]/div/button</value>
+      <webElementGuid>1f63b76d-ef66-463d-8455-bdca07ab1f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::button[1]</value>
+      <webElementGuid>692e08c4-7ad1-46f0-b27a-a60b235e1cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IFC Global'])[2]/preceding::button[1]</value>
+      <webElementGuid>6a8c4285-647b-44d1-b4d7-ebaea5fd5833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>06be4c0b-da07-404c-8caf-8dcd0cdd9fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'IFC GlobalExpand row' or . = 'IFC GlobalExpand row')]</value>
+      <webElementGuid>d9c4dd62-6adb-4fc2-a659-03073e568878</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

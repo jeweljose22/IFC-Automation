@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Approve Proposal</name>
+   <tag></tag>
+   <elementGuidId>2f6780d2-2dc9-45cd-b29f-5e2857aee528</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-primary.footer-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a65a8564-592c-4e0f-8348-1db0cc4e93d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Approve Proposal</value>
+      <webElementGuid>a157936f-3454-4301-8af4-bf2425eb2da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-primary footer-btn</value>
+      <webElementGuid>0984702d-852e-4f7f-b0bc-c05fd3047b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve Proposal</value>
+      <webElementGuid>bfbf6d82-c0f7-4674-bbf1-89bf85ff3a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;footer-bootom-row backdrop-active&quot;]/div[@class=&quot;footer-button-holder&quot;]/button[@class=&quot;app-btn app-btn-primary footer-btn&quot;]</value>
+      <webElementGuid>7ea8182a-395e-4d99-a191-9162a4a48647</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/button</value>
+      <webElementGuid>bf246550-959d-4900-971b-9f95a2e70479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Proposal'])[1]/following::button[1]</value>
+      <webElementGuid>19445302-1b39-4651-b0a2-83b648d61350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[1]</value>
+      <webElementGuid>074af726-e5a1-49e3-b9df-bb90bb187a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>af83148d-7f27-4b69-b4c9-79fc29697800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Approve Proposal' and (text() = 'Approve Proposal' or . = 'Approve Proposal')]</value>
+      <webElementGuid>79c114fa-55bc-400a-a4b5-0723a3aef251</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

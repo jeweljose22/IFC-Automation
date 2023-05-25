@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GROCERY CORPORATION</name>
+   <tag></tag>
+   <elementGuidId>db76493b-3804-42a6-898b-751294f78bec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-11-option-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'GROCERY CORPORATION' or . = 'GROCERY CORPORATION')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e17e8e3d-aa19-49de-9ba6-d0df0fcedf25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__option react-select__option--is-focused css-7141g7-option</value>
+      <webElementGuid>8286225d-5783-4274-8eb0-ae9bb8e7d748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9a51d581-2fc3-47d8-b3e6-d402477bc92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-11-option-0</value>
+      <webElementGuid>e7de05e7-06a4-4509-811e-e19daa901186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a056bbd6-b4b0-46dd-93c6-4355dd7f1f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GROCERY CORPORATION</value>
+      <webElementGuid>6143df5f-6743-4433-a4d8-e4509f0b5d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-11-option-0&quot;)</value>
+      <webElementGuid>5a7d088c-7b84-4db3-8c3a-498e5c0364e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-11-option-0']</value>
+      <webElementGuid>35a16fd7-6e8f-42b9-99e7-b65f00c17098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-11-listbox']/div/div</value>
+      <webElementGuid>aeef2098-f2ed-4a42-8325-819f81b4ac5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select agent'])[1]/following::div[5]</value>
+      <webElementGuid>4cc795cc-f38a-4196-9f8c-6520eca0bf68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::div[9]</value>
+      <webElementGuid>7d9b65af-7c81-422c-9ecc-33b1a5e83f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae31c781-5df1-4fad-b6bc-4c60d1a10d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[1]</value>
+      <webElementGuid>2cb8bb06-f499-488c-b61d-4087214f725c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GROCERY CORPORATION']/parent::*</value>
+      <webElementGuid>bb4eaef6-8127-4ef8-80c3-b1e55d7c19c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div</value>
+      <webElementGuid>953518da-1909-434a-b9aa-684f2c90489c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-11-option-0' and (text() = 'GROCERY CORPORATION' or . = 'GROCERY CORPORATION')]</value>
+      <webElementGuid>536cfa30-0d65-4482-8966-5ffc8aa8aba6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

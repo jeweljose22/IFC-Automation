@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active BPs</name>
+   <tag></tag>
+   <elementGuidId>62910937-cafd-49f0-bad6-e5f62f66e566</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.content-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/button/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04dfc169-4913-43c6-9173-96eccd56eaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-heading</value>
+      <webElementGuid>b59f6d1b-17d7-4662-8d71-4f36d92153d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active BPs</value>
+      <webElementGuid>f60155ec-9567-4afb-afb7-92550fa1f5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border booking-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-booking-list&quot;]/div[@class=&quot;dropdown-wrap download-dropdown  search-toast-content-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary menu-btn&quot;]/div[@class=&quot;purchase-dropdown-content&quot;]/div[@class=&quot;content-heading-holder&quot;]/span[@class=&quot;content-heading&quot;]</value>
+      <webElementGuid>332262a8-56a2-41f0-9211-23b7f60b7811</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/button/div/div/span</value>
+      <webElementGuid>d964330e-bc64-4751-af2d-076321e612ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status :'])[1]/following::span[1]</value>
+      <webElementGuid>f1ac587b-4a9e-4e99-a9a2-ce6e7099a3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bookings'])[1]/following::span[2]</value>
+      <webElementGuid>69cffda8-4f0b-465a-9b6f-1615944adf0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active BPs'])[2]/preceding::span[2]</value>
+      <webElementGuid>62249ce3-99f3-4090-ab72-111c2aed9aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awaiting Client Approval'])[1]/preceding::span[4]</value>
+      <webElementGuid>72c89487-0acf-4bfa-bc94-cfdb70b65d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active BPs']/parent::*</value>
+      <webElementGuid>e0317829-033e-494c-adab-38156d73c2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/span</value>
+      <webElementGuid>2ade0d11-a1f1-4b30-9d3e-df0ba9430e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Active BPs' or . = 'Active BPs')]</value>
+      <webElementGuid>1787e16d-ab98-4ff0-b3e1-5e7058671476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Q123, V1.0</name>
+   <tag></tag>
+   <elementGuidId>fd7d0118-3b3b-4ed8-8081-45bc2d393958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='name_div']/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ceb6080d-5932-4574-bbc5-47aea0d912d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item app-btn </value>
+      <webElementGuid>dc9b18c4-3e5a-433c-baf4-4d8ff072132b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Q123, V1.0</value>
+      <webElementGuid>88eb3c91-6976-4e48-a451-39fb1748e333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name_div&quot;)/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;dropdown-wrap download-dropdown modal-dropdown dropdown-open search-toast-content-holder modal-dropdown-btn quotation-dropdown&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;menu-item app-btn&quot;]</value>
+      <webElementGuid>a55d318b-3f86-495c-9dc5-d15a96eb7b45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name_div']/div[2]/div/div/a</value>
+      <webElementGuid>6a1f0d43-bee3-4805-b829-5754ff33f8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Quotation'])[1]/following::a[1]</value>
+      <webElementGuid>a992c3d1-499b-41a3-8066-58f29f7c8de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::a[1]</value>
+      <webElementGuid>90f64272-93a5-4a2e-851c-428121a21e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::a[1]</value>
+      <webElementGuid>c4e9029d-3a97-4058-b914-f12d26d1278b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Q123']/parent::*</value>
+      <webElementGuid>991c43d3-1e87-4fd1-b347-05da1f0e09b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div/a</value>
+      <webElementGuid>4242565d-6771-40d2-8681-d18ac9ef0a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Q123, V1.0' or . = 'Q123, V1.0')]</value>
+      <webElementGuid>4611ed59-7762-4346-9000-d6d2a4ca6daa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

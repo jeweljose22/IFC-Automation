@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Cost (Buy)</name>
+   <tag></tag>
+   <elementGuidId>3769b227-feec-4371-bf47-b54bc5679750</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8762bee8-f590-4608-8f16-b62e4dabaac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-input-label</value>
+      <webElementGuid>efcbb60c-529e-49a1-b260-593ab1ef26be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cost (Buy)*</value>
+      <webElementGuid>cdd00f61-426e-44da-af56-31390046a3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/div[@class=&quot;modal-input-holder&quot;]/label[@class=&quot;modal-input-label&quot;]</value>
+      <webElementGuid>dc367f77-29dc-4184-b5ce-07ef70cf8566</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/div[2]/label</value>
+      <webElementGuid>82f08efa-1cdb-450e-bb85-106e3430d5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IFC Global'])[2]/following::label[1]</value>
+      <webElementGuid>d4303051-ab07-4636-8830-3da8f2330125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IFC Global'])[1]/following::label[1]</value>
+      <webElementGuid>ea7b9d39-d99e-4319-8a26-630b42c4c97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cost (Buy)']/parent::*</value>
+      <webElementGuid>e064b2d2-afc4-444c-9cb4-7eca3f29219a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/label</value>
+      <webElementGuid>3362eaca-45bc-4dd3-81f0-b6bfa93cb899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Cost (Buy)*' or . = 'Cost (Buy)*')]</value>
+      <webElementGuid>50a4523b-8b6c-49b8-8a80-1bf93777caf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add PO Line</name>
+   <tag></tag>
+   <elementGuidId>9165869a-43ee-4574-a299-7d1610320b02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.export-btn.icon-button.app-btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='table_div']/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>39393082-1ad1-4f1d-84d4-3e018eb37e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn export-btn icon-button app-btn-secondary</value>
+      <webElementGuid>0e70faed-9a08-4bfe-b09d-5a892c73bd4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add PO Line</value>
+      <webElementGuid>fbc61e68-4ed7-425b-b2de-8cc41c58f3a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_div&quot;)/div[@class=&quot;grid-header&quot;]/div[@class=&quot;add-btn-users&quot;]/button[@class=&quot;app-btn export-btn icon-button app-btn-secondary&quot;]</value>
+      <webElementGuid>41790d44-1604-4c72-a018-f757255e98d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='table_div']/div/div[2]/button[2]</value>
+      <webElementGuid>2c2519b2-f1af-468b-bc0e-aacb225f3704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip PO Line Addition'])[1]/following::button[1]</value>
+      <webElementGuid>af4e2251-476f-4e08-acf2-3493ef9d7334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details'])[2]/following::button[2]</value>
+      <webElementGuid>8afa7bc9-fa0e-40bf-bc8c-5048b11f747c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO LINE NO.'])[1]/preceding::button[1]</value>
+      <webElementGuid>aac66871-9d19-4875-bc36-2784e22a60d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>5c8e7502-6713-484b-b92f-f452201d63a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add PO Line' or . = 'Add PO Line')]</value>
+      <webElementGuid>5e34713d-cad5-418d-a004-39d50f346d5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Bookings_search-input input-text</name>
+   <tag></tag>
+   <elementGuidId>278a3c88-d7da-4fcc-9ecf-ad12c7f547c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.search-input.input-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>289b45cb-e2fc-4297-832d-57d08621848b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by Booking, PO No.</value>
+      <webElementGuid>584b1c85-05c2-484f-b9fd-cc6008fd53c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fb959aef-a63f-413f-9fae-25d3f0bfd82f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-input input-text</value>
+      <webElementGuid>7111b427-69b2-4daf-aa31-d193bd8ff794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border booking-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-booking-list&quot;]/div[@class=&quot;search-entry-holder&quot;]/input[@class=&quot;search-input input-text&quot;]</value>
+      <webElementGuid>7e69027c-b3ee-4c4d-ad58-5351c9c5f157</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>14c6b4f8-38f7-4fa5-8818-fdeb601b358d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div/input</value>
+      <webElementGuid>487fa83f-c9ce-4518-b4c7-00f8736a1071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>23d653b9-e7ec-43d5-a8ec-6759cda28fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search by Booking, PO No.' and @type = 'text']</value>
+      <webElementGuid>e2537533-a451-4fb2-933e-172bbd58a985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

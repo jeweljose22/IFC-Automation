@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Details</name>
+   <tag></tag>
+   <elementGuidId>e9d231fc-c193-4a9a-87bb-94f82022c379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-secondary.icon-button.add-product-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div[2]/div/div/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>173dc7d4-9716-4cfe-bf42-23c1b28f3cb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-secondary icon-button  add-product-btn</value>
+      <webElementGuid>cfec26f1-9f45-4b5f-b148-c7048984caab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add Details</value>
+      <webElementGuid>e65b8395-5ac7-4349-a42d-abb7f3f269ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Details</value>
+      <webElementGuid>d3a9f340-fc23-427c-a551-61744e2f9ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper po-selection-grid&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder&quot;]/div[@class=&quot;btn-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary icon-button  add-product-btn&quot;]</value>
+      <webElementGuid>13ea30c9-6c5b-46f7-b42b-d53a87e16c4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div[2]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>fda412d7-3535-40dd-8400-528a4e830288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Details'])[1]/following::button[1]</value>
+      <webElementGuid>f4157a47-7977-472c-8e40-cfb3b5d6d50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/following::button[1]</value>
+      <webElementGuid>4dbe1487-2f3f-438a-a32f-02a689c01f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>5fa9ec6d-313a-4ecf-a3f2-666602dc7da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Add Details' and (text() = 'Add Details' or . = 'Add Details')]</value>
+      <webElementGuid>a42449fd-7c65-4584-83a1-da9ae3ce97a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

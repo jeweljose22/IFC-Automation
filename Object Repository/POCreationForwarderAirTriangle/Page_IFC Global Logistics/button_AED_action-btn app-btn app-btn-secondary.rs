@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AED_action-btn app-btn app-btn-secondary</name>
+   <tag></tag>
+   <elementGuidId>13308a32-c6ed-440a-bb88-fb970f77490d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.action-btn.app-btn.app-btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e42ee6df-9bc4-4f84-9549-ec52b61ad406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-btn app-btn app-btn-secondary</value>
+      <webElementGuid>9dbd6593-babb-43cc-9379-58de44695bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Save PO Line</value>
+      <webElementGuid>9061a68d-54e3-4900-b177-3c64be0220e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>52fb1d18-5c43-4e4f-8558-ac2299554d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>my-form</value>
+      <webElementGuid>5206133d-0b28-41e4-b8f4-b2b3a2f477f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_row&quot;)/td[@class=&quot;grid-cell buttons-col-align grid-sticky-column sticky-right-aligned&quot;]/div[@class=&quot;grid-cell-data&quot;]/button[@class=&quot;action-btn app-btn app-btn-secondary&quot;]</value>
+      <webElementGuid>c7ab2cfe-d928-4361-9e06-2611c600321c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>166b5a46-8ac6-4d95-9ae5-b59fe7b59ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='add_row']/td[10]/div/button</value>
+      <webElementGuid>680fcb7e-897f-4839-a76e-5f445961ec77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/following::button[1]</value>
+      <webElementGuid>37f97e75-73e4-45c5-904d-260471155f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Algeria'])[1]/following::button[1]</value>
+      <webElementGuid>1c224774-2c01-4084-b716-241373a8a797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[1]/preceding::button[2]</value>
+      <webElementGuid>2a220544-7d37-41ac-b655-828fd53124de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::button[2]</value>
+      <webElementGuid>2b78c9f5-6b74-458c-ada0-dcd4dc18df51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/button</value>
+      <webElementGuid>ef479202-2744-4b18-b7e6-3232967cba6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Save PO Line' and @type = 'submit' and @form = 'my-form']</value>
+      <webElementGuid>0a1cddaa-bf5a-4d4c-8566-c80c67b4fb1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

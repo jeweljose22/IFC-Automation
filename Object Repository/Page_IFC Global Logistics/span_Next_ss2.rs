@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Next_ss2</name>
+   <tag></tag>
+   <elementGuidId>2081dc1f-d13f-49e3-8c5e-c5fdd2dfe2c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.app-btn.app-btn-primary.footer-btn > span.button-text.footer-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Next' or . = 'Next')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11d819bb-b2b5-4c00-838b-c4b81c4e9b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text footer-button-text</value>
+      <webElementGuid>81d11b7f-9ba2-40d0-acd1-704ffcabc043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>0aabe132-7fc3-4ea0-8962-6df3e6a0a6bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;footer-bootom-row backdrop-active&quot;]/div[@class=&quot;footer-button-holder&quot;]/a[@class=&quot;app-btn app-btn-primary footer-btn&quot;]/span[@class=&quot;button-text footer-button-text&quot;]</value>
+      <webElementGuid>15335ab1-0541-4cd5-9ac4-702f6149e252</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/a[2]/span</value>
+      <webElementGuid>186c63e8-a486-4b92-81ac-fba45ae673a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[1]</value>
+      <webElementGuid>c3508216-5a40-461f-b4a3-4d4ccf54041e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Details'])[1]/following::span[2]</value>
+      <webElementGuid>124c103c-3ed3-4450-8b5b-056a3adf0066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>7df020e2-a1ef-4ef0-8df8-0de8bd920aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
+      <webElementGuid>f6859d60-1735-4c44-b1ec-a950d6702a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>d42b98b3-c0da-4d9e-b9f7-cd003ba347ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/a[2]/span</value>
+      <webElementGuid>b1fcee20-72f2-4682-bc0e-c91351a5baa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>0a42136a-0745-4bdc-8cba-f59ae46190bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

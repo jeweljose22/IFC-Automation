@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AED_delete</name>
+   <tag></tag>
+   <elementGuidId>4646b1c4-1a2c-45ce-bb86-e1e95c2ea726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/table/tbody/tr/td[10]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a79f844c-b050-4be7-89d7-06af801e7702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-btn app-btn app-btn-secondary </value>
+      <webElementGuid>2f34fdf9-aa70-4cd7-a843-ada25329295c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove PO Line</value>
+      <webElementGuid>c4333ca5-211c-4e72-99f5-5b54e21b2413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/table[@class=&quot;grid-table&quot;]/tbody[1]/tr[@class=&quot;has-child row-expanded&quot;]/td[@class=&quot;grid-cell buttons-col-align grid-sticky-column sticky-right-aligned&quot;]/div[@class=&quot;grid-cell-data&quot;]/button[@class=&quot;action-btn app-btn app-btn-secondary&quot;]</value>
+      <webElementGuid>81cd6cc3-b250-4c52-968e-7541ab695d75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/table/tbody/tr/td[10]/div/button[2]</value>
+      <webElementGuid>1ee3644b-ee7a-436f-a670-10ecbf067cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/following::button[2]</value>
+      <webElementGuid>3e8ef303-212a-48ad-8ec0-c0e562706404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/following::button[2]</value>
+      <webElementGuid>e2d95d2f-ce76-4b1d-985c-cc13e09d3a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('9699 O', &quot;'&quot;, 'Conner Circle, Waters Ports, Huntington, Kerlukestad, Laurettaport, 4215')])[1]/preceding::button[2]</value>
+      <webElementGuid>0497ac6b-ebf7-4251-baa8-bbca94f08d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::button[2]</value>
+      <webElementGuid>705f2a0c-c27c-4089-bb6e-c829bb82f020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/div/button[2]</value>
+      <webElementGuid>0a362cfe-0d5e-444b-b4ef-a2ddbb0d48d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Remove PO Line']</value>
+      <webElementGuid>c87c8b79-f8cc-4b1f-a115-c14a0a37e82e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

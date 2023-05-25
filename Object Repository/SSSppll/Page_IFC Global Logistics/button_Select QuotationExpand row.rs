@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select QuotationExpand row</name>
+   <tag></tag>
+   <elementGuidId>d15b1cac-a824-439c-ba26-9a05d61613fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.menu-btn.app-btn.select-modal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>14f838de-d528-4875-95cb-1f796794e947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-btn app-btn select-modal</value>
+      <webElementGuid>31b66e6b-8b87-45a2-9449-690ce7e120e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df0754e3-9f3c-418b-add8-09caff354d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select QuotationExpand row</value>
+      <webElementGuid>1436b61f-bae2-4218-9502-9ad2473ec940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name_div&quot;)/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;dropdown-wrap download-dropdown modal-dropdown  search-toast-content-holder modal-dropdown-btn quotation-dropdown&quot;]/button[@class=&quot;menu-btn app-btn select-modal&quot;]</value>
+      <webElementGuid>5f91559a-e03f-4d7a-950c-e719e0683bcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>e4421549-ffd4-4c97-87bd-a069ad3a9478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name_div']/div[2]/div/button</value>
+      <webElementGuid>294bf00c-03d8-4cc9-a3dc-39c27df86d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::button[1]</value>
+      <webElementGuid>23f6e7ea-7804-4f4e-8a59-e26a001a5c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>326bf6ae-892d-4331-9a7b-0b849a4a2be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Select QuotationExpand row' or . = 'Select QuotationExpand row')]</value>
+      <webElementGuid>d02f4ae2-54e9-4190-a649-2104682fed57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

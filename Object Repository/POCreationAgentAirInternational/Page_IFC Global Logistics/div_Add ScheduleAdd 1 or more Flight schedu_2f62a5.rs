@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add ScheduleAdd 1 or more Flight schedu_2f62a5</name>
+   <tag></tag>
+   <elementGuidId>d32a2c66-291e-4f07-996c-2576e5ff3427</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-content-holder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/button/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14368d3f-df83-48ec-849e-3f3b953bc471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-content-holder</value>
+      <webElementGuid>4ecece58-5575-471e-916e-421d0efb55f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add ScheduleAdd 1 or more Flight schedule options for client selection</value>
+      <webElementGuid>c600ea05-4d3e-4f65-a67d-550b95d4ea4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-sailing-schelude&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;lcl-sailing-container&quot;]/div[@class=&quot;booking-sailing-schelude-container air-booking-sailing-schelude&quot;]/div[@class=&quot;air-sailing-btns-holder&quot;]/div[@class=&quot;lcl-sailing-add-btn-holder add-schelude-btn&quot;]/button[@class=&quot;app-btn add-btn-lcl&quot;]/div[@class=&quot;icon-content-wrapper&quot;]/div[@class=&quot;btn-content-holder&quot;]</value>
+      <webElementGuid>b4324eff-b8e6-45f8-a1c5-b8e328e570be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/button/div/div[2]</value>
+      <webElementGuid>19ad6a41-c44a-4b27-b95c-bb0746dfcabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Schedules'])[1]/following::div[9]</value>
+      <webElementGuid>295cc8c0-eb7e-44d4-ad44-c7ed2d38b611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Selection'])[1]/following::div[11]</value>
+      <webElementGuid>c03e064a-26fe-43b5-8bc6-2d7e0b0ed05f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[2]</value>
+      <webElementGuid>27c78d5f-856b-4721-8136-566b685466a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div[2]</value>
+      <webElementGuid>c397fc7e-cf79-4f01-826e-453caa9de0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add ScheduleAdd 1 or more Flight schedule options for client selection' or . = 'Add ScheduleAdd 1 or more Flight schedule options for client selection')]</value>
+      <webElementGuid>cf900e30-d846-4eef-96a7-e18c16835628</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

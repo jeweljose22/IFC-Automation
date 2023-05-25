@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Enter currency to select_grid-cell  search-entry-holder</name>
+   <tag></tag>
+   <elementGuidId>51572405-d005-4cf6-a700-475c07e7dc24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='add_row']/td[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b22265f4-b54b-4dfd-8276-5837b33617b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-cell  search-entry-holder</value>
+      <webElementGuid>2f882973-417c-4d0c-8c68-1a6ca011612b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_row&quot;)/td[@class=&quot;grid-cell  search-entry-holder&quot;]</value>
+      <webElementGuid>489a0ef1-d8c8-4c2e-994e-a18c6d50ea94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='add_row']/td[9]</value>
+      <webElementGuid>8883c165-f253-41c4-b675-467178aaf3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter currency to select'])[1]/following::td[2]</value>
+      <webElementGuid>7d47e10f-8e90-4c7a-8808-698fb5aa8d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter country to select'])[1]/following::td[5]</value>
+      <webElementGuid>023789a0-7d2a-493d-8f49-b8d5922c2b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[1]/preceding::td[2]</value>
+      <webElementGuid>837ba5b3-2912-426f-9c9a-0c0e16eda702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::td[2]</value>
+      <webElementGuid>d2b4b332-564c-4651-bf29-af6684476a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]</value>
+      <webElementGuid>d7329269-3c49-4cff-95e4-ceb5ea0f261d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

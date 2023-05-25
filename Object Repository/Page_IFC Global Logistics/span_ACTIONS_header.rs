@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ACTIONS_header</name>
+   <tag></tag>
+   <elementGuidId>6c525ff5-bcf4-4804-b2d1-4032a51858bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.grid-cell-header.col-actions > div.grid-cell-data > span.header-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='container-form']/table/thead/tr/th[6]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7dad6e61-411c-4a7f-b1ab-34a5b62903ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-title</value>
+      <webElementGuid>56b8119c-4971-4678-8a20-c8ac46b0e41f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACTIONS</value>
+      <webElementGuid>bf509b22-6210-4873-8cc3-2ad1352aad5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-form&quot;)/table[@class=&quot;grid-table&quot;]/thead[1]/tr[@class=&quot;grid-sticky-row&quot;]/th[@class=&quot;grid-cell-header col-actions&quot;]/div[@class=&quot;grid-cell-data&quot;]/span[@class=&quot;header-title&quot;]</value>
+      <webElementGuid>ef21a469-3816-4ee4-852b-85079d1f2a04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='container-form']/table/thead/tr/th[6]/div/span</value>
+      <webElementGuid>5527b8ec-7b1c-46e6-a507-31e0eafdba94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBM'])[1]/following::span[1]</value>
+      <webElementGuid>fc00aebc-06b6-4365-bef1-60355507f27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUANTITY'])[1]/following::span[2]</value>
+      <webElementGuid>0645d934-fec2-46de-907b-fab663a09d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter container type'])[1]/preceding::span[3]</value>
+      <webElementGuid>e9f4d995-8bb9-4a81-931b-ea9a0ab98a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter delivery mode'])[1]/preceding::span[5]</value>
+      <webElementGuid>fc23c6e4-d84a-48c3-8e0d-2295db7ec7ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACTIONS']/parent::*</value>
+      <webElementGuid>124b667f-aa9b-49f7-8205-0c3a49f70bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[6]/div/span</value>
+      <webElementGuid>7100b2b7-8db5-46e8-81cb-ca36c1b927a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ACTIONS' or . = 'ACTIONS')]</value>
+      <webElementGuid>00c806a3-10e1-409b-8e3d-fedba1c4245b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

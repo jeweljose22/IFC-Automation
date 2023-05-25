@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PO Bookings - Air197</name>
+   <tag></tag>
+   <elementGuidId>8fcd8f8d-a675-4789-a07d-7363ce055702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c55f767b-6bda-4268-a283-b33c35504ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>106066da-461a-4e88-84f3-364706d1a124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-nav </value>
+      <webElementGuid>02835a29-3cb9-468e-a261-a7b08404082b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PO Bookings - Air197</value>
+      <webElementGuid>78b745f7-d4ec-423f-b521-c4d12acf82d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border booking-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;tab-nav-holder&quot;]/a[@class=&quot;tab-nav&quot;]</value>
+      <webElementGuid>0023204c-38bb-4218-8b59-d70e8c7f3dbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div[2]/a[2]</value>
+      <webElementGuid>f7b31992-c75d-4cd6-8e21-b5b5ee261571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AO Booking'])[1]/following::a[2]</value>
+      <webElementGuid>58863e97-1eb2-4d73-afec-b6de6f055f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Booking - Air'])[1]/following::a[3]</value>
+      <webElementGuid>ef19e0f6-c48a-4742-af07-b2cf74283d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOKING NO.'])[1]/preceding::a[2]</value>
+      <webElementGuid>4655a474-76bc-4690-8a30-04bd71dbe5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='header menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>c5b86d38-3a91-4671-962f-9858fc22c9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PO Bookings - Air']/parent::*</value>
+      <webElementGuid>32e185eb-ae57-4eb3-816a-f27b9925a5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>24695b9a-4452-49e4-b0ee-6712fb88f776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>fa799d19-ac1d-4b4d-920d-551e3f512329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'PO Bookings - Air197' or . = 'PO Bookings - Air197')]</value>
+      <webElementGuid>90ee0bf9-cb65-4d17-bef1-13aa5c5534f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

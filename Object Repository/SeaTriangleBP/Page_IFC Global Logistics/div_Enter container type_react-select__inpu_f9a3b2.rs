@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter container type_react-select__inpu_f9a3b2</name>
+   <tag></tag>
+   <elementGuidId>161dafa8-2e10-47c8-9f8e-98bde34953af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='container-form']/table/tbody/tr/td/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f5dcbd4-d840-422b-9042-8f8b3244d09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>38cde264-48c1-4db2-b703-4b8ad50577db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container-form&quot;)/table[@class=&quot;grid-table&quot;]/tbody[1]/tr[@class=&quot;has-child row-expanded&quot;]/td[@class=&quot;grid-cell&quot;]/div[@class=&quot;grid-cell-data&quot;]/div[@class=&quot;dropdown-wrap download-dropdown dropdown-open search-toast-content-holder&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pftj4c-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>06ff9be4-b8c7-4c39-9733-60159d3389cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='container-form']/table/tbody/tr/td/div/div/div/div/div/div[2]</value>
+      <webElementGuid>881050a6-b5d2-4f01-8b05-a51b7a4c611c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter container type'])[1]/following::div[1]</value>
+      <webElementGuid>89d53bc1-13c3-406b-bdf4-d0f7e92b164a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIONS'])[1]/following::div[7]</value>
+      <webElementGuid>fd1637bd-32f1-4952-afc3-8fd483a35e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twenty foot non-operating reefer (20NOR)'])[1]/preceding::div[2]</value>
+      <webElementGuid>19b93860-ab15-497b-80a9-679079bf6589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twenty foot flatrack (20FR)'])[1]/preceding::div[3]</value>
+      <webElementGuid>e0a6ad14-d927-42f3-b3e7-716e3233a4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/div/div/div[2]</value>
+      <webElementGuid>b11f6b84-6aa5-40ce-9aa1-bcaf322077bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

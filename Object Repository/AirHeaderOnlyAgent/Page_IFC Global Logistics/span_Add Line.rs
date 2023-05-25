@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Line</name>
+   <tag></tag>
+   <elementGuidId>6bd78dd9-4ac5-4299-a580-b2b4c40f9230</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70a358a5-6123-4cf6-a0a4-28246cbfa465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+      <webElementGuid>02182c44-7015-41bf-9e97-1b2233269bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Line</value>
+      <webElementGuid>7b7650c2-53b2-4243-a1a9-84b68ff1c5b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-confirmation&quot;]/div[@class=&quot;content-section main-wrapper ao-product-detail-confirmation-wrapper&quot;]/div[@class=&quot;shipping-wrapper&quot;]/div[@class=&quot;shipping-btn-wrapper&quot;]/button[@class=&quot;app-btn icon-button app-btn-secondary&quot;]/span[@class=&quot;button-text&quot;]</value>
+      <webElementGuid>be3bda9e-43b6-4f4e-a9c8-6cf2f49c0b45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/button/span</value>
+      <webElementGuid>59bb60d0-e660-415d-a8b1-811b0e51714c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Confirmation'])[2]/following::span[1]</value>
+      <webElementGuid>412685b9-f2d6-487e-9e3b-863940ceb96d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Confirmation'])[1]/following::span[1]</value>
+      <webElementGuid>c2d47593-4b46-4fbb-b58f-d238f29ff7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>29087d51-21d6-434d-bb05-e2c90956f027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Line']/parent::*</value>
+      <webElementGuid>82494242-a89b-483b-a51d-8cb24fa67bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>2f2fe0e9-2a21-4f50-ac3e-183b9c3ea761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Line' or . = 'Add Line')]</value>
+      <webElementGuid>aaf147e2-6e6c-439c-b7a5-3f055280f6fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

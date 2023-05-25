@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Awaiting Forwarder Approval</name>
+   <tag></tag>
+   <elementGuidId>39c8655c-1c09-4967-968e-eeadbeb2bd5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/div/a[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dad8c5b9-b67e-45c7-91a7-a14418d9f4c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-heading</value>
+      <webElementGuid>1c2102b9-94f1-4162-a748-1414e18e18e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Awaiting Forwarder Approval</value>
+      <webElementGuid>ba713ed2-e2e2-48af-843b-82c69e97de1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border booking-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-booking-list&quot;]/div[@class=&quot;dropdown-wrap download-dropdown dropdown-open search-toast-content-holder&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;menu-item app-btn&quot;]/div[@class=&quot;content-heading-holder&quot;]/span[@class=&quot;content-heading&quot;]</value>
+      <webElementGuid>2ae8c081-b85d-4e22-aeae-89530825b505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/div/a[3]/div/span</value>
+      <webElementGuid>710a637f-d0f6-4c5a-97b3-4747346f1c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft Booking Proposal'])[1]/following::span[2]</value>
+      <webElementGuid>37641a47-eee3-41d1-a1fa-f9ac4abc2a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active BPs'])[2]/following::span[4]</value>
+      <webElementGuid>9c26abdf-6910-4df3-b584-87bd2f075f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awaiting Client Approval'])[1]/preceding::span[2]</value>
+      <webElementGuid>416971d5-b65b-4962-be05-5647e91f12ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected by Client: Forwarder to Action'])[1]/preceding::span[4]</value>
+      <webElementGuid>f202e168-e247-4d1f-92a7-ce923246be55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Awaiting Forwarder Approval']/parent::*</value>
+      <webElementGuid>504c8f58-fe53-4eea-8b4b-0c9ff7076372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/span</value>
+      <webElementGuid>b99ab430-fd8a-48aa-a5fb-a48679896499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Awaiting Forwarder Approval' or . = 'Awaiting Forwarder Approval')]</value>
+      <webElementGuid>d7ba3383-47d4-458d-a9a9-0e997f5c1597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

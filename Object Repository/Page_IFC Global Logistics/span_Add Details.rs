@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Details</name>
+   <tag></tag>
+   <elementGuidId>8084f396-2f43-4a5b-8365-c95dfb32d1f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-head-holder.add-btn-holder > div.btn-holder > button.app-btn.app-btn-secondary.icon-button > span.button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72827756-9a8f-468c-920b-a3e3f0ee5ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+      <webElementGuid>72222ede-8ba5-4c96-914b-730622d8c6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Details</value>
+      <webElementGuid>9c504c08-4536-4046-826e-0b2afd0fc6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-additional-detail&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;booking-detail-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder&quot;]/div[@class=&quot;btn-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary icon-button&quot;]/span[@class=&quot;button-text&quot;]</value>
+      <webElementGuid>dec573dc-1f77-41f8-a977-913f22baeba7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>9f9817f5-2f9d-485e-a861-eaea5aeb89e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking Details'])[2]/following::span[1]</value>
+      <webElementGuid>a4390f42-90f2-4f61-a3cf-f6b7dfc50440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/following::span[1]</value>
+      <webElementGuid>788f0678-d37a-4bdb-8304-fb83e6994de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>e9716e98-22c0-4522-be84-c1ecfa1cd93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Details']/parent::*</value>
+      <webElementGuid>fb3f66e8-7c07-486c-86c4-e48e5a51b55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>48089881-9537-413c-b159-8d6519e03f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Details' or . = 'Add Details')]</value>
+      <webElementGuid>d77bed8f-6254-41d2-a9ec-4c4dbae16d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/button/span</value>
+      <webElementGuid>151ff039-f922-419b-86d7-1f3e735d8845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required Details'])[1]/following::span[1]</value>
+      <webElementGuid>c167bab0-a146-41c1-9549-2cee7f12258f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Preview'])[1]/following::span[1]</value>
+      <webElementGuid>ce82f9ee-44e5-48e0-ba65-0e31ddc67c66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

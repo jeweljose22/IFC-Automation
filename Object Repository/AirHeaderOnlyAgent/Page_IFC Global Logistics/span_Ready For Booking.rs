@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ready For Booking</name>
+   <tag></tag>
+   <elementGuidId>d6f98ad9-9ff0-4cbc-81fb-239c9603e6a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/div/a[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75ef82e6-7f6d-4450-a043-1fe9cc54c60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-heading</value>
+      <webElementGuid>b8b9f19d-2980-4927-be05-e9f1bd63c527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ready For Booking</value>
+      <webElementGuid>44d0eab1-d3a5-450e-b952-805ab1248352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border purchase-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-purchase-grid&quot;]/div[@class=&quot;dropdown-wrap dropdown-open download-dropdown search-toast-content-holder&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;menu-item app-btn&quot;]/div[@class=&quot;content-heading-holder&quot;]/span[@class=&quot;content-heading&quot;]</value>
+      <webElementGuid>8b31218c-243c-4fe9-88bf-7d7973cc64bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/div/a[3]/div/span</value>
+      <webElementGuid>9d1f5bad-562f-448f-8c9c-99e0cf66cb44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awaiting Enrichment'])[1]/following::span[2]</value>
+      <webElementGuid>868b97b5-b639-4130-b9af-037e26147015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active POs'])[2]/following::span[4]</value>
+      <webElementGuid>3060003e-22e9-4596-94b1-491d3d2c0c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partially Booked'])[1]/preceding::span[2]</value>
+      <webElementGuid>a0546b72-9ae0-4b1d-98f6-9212c5330243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booked'])[1]/preceding::span[4]</value>
+      <webElementGuid>eb570ec8-ccf1-4b5c-95b3-6b4957bff204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ready For Booking']/parent::*</value>
+      <webElementGuid>54fc2a90-d125-41d9-83f5-24151fbc5f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/span</value>
+      <webElementGuid>f906de52-cba8-4ac5-9d28-c133c9fbdf3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ready For Booking' or . = 'Ready For Booking')]</value>
+      <webElementGuid>ff3f0347-2333-4422-8473-94b985212ce6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

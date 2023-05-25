@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Awaiting Enrichment</name>
+   <tag></tag>
+   <elementGuidId>8e076ea7-02e4-4ff0-8d98-9767feb10cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/div/a[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d8d9e56-a30e-435a-bae2-400703340e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-heading</value>
+      <webElementGuid>d5d9276f-8f86-4a6e-9e7e-17ae71d41ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Awaiting Enrichment</value>
+      <webElementGuid>f5383343-7762-4408-9cd5-a34bd0a4f420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border purchase-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-purchase-grid&quot;]/div[@class=&quot;dropdown-wrap dropdown-open download-dropdown search-toast-content-holder&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;menu-item app-btn&quot;]/div[@class=&quot;content-heading-holder&quot;]/span[@class=&quot;content-heading&quot;]</value>
+      <webElementGuid>ad00fc99-b223-4da8-8955-e52f16cc1c83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/div/a[3]/div/span</value>
+      <webElementGuid>9f8380e0-7349-4515-a8e5-cdfa9b0fb91a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/following::span[2]</value>
+      <webElementGuid>9f2cf3f6-b389-4250-baf0-5239adf13088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active POs'])[2]/following::span[4]</value>
+      <webElementGuid>03cb8cb5-3ca7-4c1b-8e7c-a22c16a7c147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready For Booking'])[1]/preceding::span[2]</value>
+      <webElementGuid>24eb68de-4db4-4392-a05e-f3a272906442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partially Booked'])[1]/preceding::span[4]</value>
+      <webElementGuid>d25f73d5-7d1e-4093-8410-f376cf8c6ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Awaiting Enrichment']/parent::*</value>
+      <webElementGuid>1aa04d6c-f358-4dc3-a2e3-c67b6ac66175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/span</value>
+      <webElementGuid>76dc409c-c2b2-45ac-98f6-05222b65b38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Awaiting Enrichment' or . = 'Awaiting Enrichment')]</value>
+      <webElementGuid>f18bf61b-8273-4ebc-b5bd-a45a5c14c7a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Previous</name>
+   <tag></tag>
+   <elementGuidId>cb37d16d-1766-48b3-868b-8a9d012619e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-secondary.footer-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6b08cd0e-c040-4a39-990e-6cc940c0eba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-secondary footer-btn</value>
+      <webElementGuid>cdecb815-1817-46c1-93e4-3fe0923e76d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>previous</value>
+      <webElementGuid>0ca82fcb-b966-4810-93c1-58027523cde0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Previous</value>
+      <webElementGuid>79e052b1-b76e-4c9a-9b5b-7eb54ecbe126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;footer-bootom-row&quot;]/div[@class=&quot;footer-button-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary footer-btn&quot;]</value>
+      <webElementGuid>1dd82119-0cd6-4079-b5b4-9b607c0920de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/button</value>
+      <webElementGuid>18497f76-4d8c-45d1-ab71-15ff283f6165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/following::button[1]</value>
+      <webElementGuid>33c4e336-d0b3-41c2-81d0-7aa145d24851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/following::button[1]</value>
+      <webElementGuid>fdf1eade-32b4-4a3f-94b4-51b234ec001c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm and Submit PO'])[1]/preceding::button[1]</value>
+      <webElementGuid>444bce07-5aae-4260-9842-8320aeffd4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>8472cad3-6a99-4c96-a188-de5108e83533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'previous' and (text() = 'Previous' or . = 'Previous')]</value>
+      <webElementGuid>2ad58a96-59ec-4ffd-8371-9edad2e7d1ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

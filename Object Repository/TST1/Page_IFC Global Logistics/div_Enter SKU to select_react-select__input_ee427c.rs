@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter SKU to select_react-select__input_ee427c</name>
+   <tag></tag>
+   <elementGuidId>5c1e1aaa-598c-4620-a78d-bc54f7205bc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='skuId_div']/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b46fb43-4f3f-4a96-a4c8-1872dc5e8108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>9bc18051-c2a1-48f8-baaf-8c2ca1953441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;skuId_div&quot;)/div[@class=&quot;dropdown-wrap  menu-down dropdown-open modal-dropdown&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pftj4c-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>061019dd-3aea-4629-8d22-d3e42f9b4eea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='skuId_div']/div/div/div/div/div[2]</value>
+      <webElementGuid>2c67d888-8af4-41dd-91b3-b149c01d762a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter SKU to select'])[1]/following::div[1]</value>
+      <webElementGuid>fac50a1f-b911-4894-a00d-cdc408ce754d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTION'])[1]/following::div[8]</value>
+      <webElementGuid>05cac4d3-3c4a-41a2-b3cd-ed12bf93071c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter country to select'])[1]/preceding::div[3]</value>
+      <webElementGuid>cb20092a-2c0d-4303-8698-4113404dc8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter currency to select'])[1]/preceding::div[13]</value>
+      <webElementGuid>3d5f45b7-6ccb-4e66-a787-1cb8a0751df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>ac529992-2d38-466b-bfda-14aa509bc86c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next</name>
+   <tag></tag>
+   <elementGuidId>d20142b1-e3b8-45c7-9894-79394825216a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.app-btn.app-btn-primary.footer-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[3]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e71a7752-e1fe-4d1d-86f3-bb8332a0a05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-primary footer-btn</value>
+      <webElementGuid>39ac692b-363e-4daa-9ab5-881777e1735f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>c53d44d2-daa3-4005-adfc-773e79955213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/air_booking_list/74d0c7e2-b025-4d2c-b761-eca586d322dd/booking_details</value>
+      <webElementGuid>8a9ed82d-32ed-443d-9d04-0182a079115c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>e7b7e143-8e86-4131-be05-4b13855113fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;footer-bootom-row backdrop-active&quot;]/div[@class=&quot;footer-button-holder&quot;]/a[@class=&quot;app-btn app-btn-primary footer-btn&quot;]</value>
+      <webElementGuid>1e27713c-f791-4f64-9f07-a2e163801263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/a[2]</value>
+      <webElementGuid>03819978-a747-446c-84e2-889c0e90a924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[1]</value>
+      <webElementGuid>1905ba31-e803-46a9-9e53-a07c34f9082b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remenka Priscilli'])[1]/following::a[2]</value>
+      <webElementGuid>14dae027-c893-4697-9345-9235106eb9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/air_booking_list/74d0c7e2-b025-4d2c-b761-eca586d322dd/booking_details')])[2]</value>
+      <webElementGuid>150a77d1-cb76-4634-b8fd-885a28b82650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/a[2]</value>
+      <webElementGuid>84523dcc-3fe4-4ae6-a3d8-9b585a0082e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Next' and @href = '/air_booking_list/74d0c7e2-b025-4d2c-b761-eca586d322dd/booking_details' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>ee9e4a0e-13eb-4f47-98cb-007fb4b5128e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('9699 O', &quot;'&quot;, 'Conner Circle, Waters Ports, Huntington, Kerlukestad, Laurettaport, 4215')])[1]/following::a[2]</value>
+      <webElementGuid>5d90b523-4f8a-4387-9ae3-1d79745609fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Products for Booking Proposal'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e5c1847-d72d-4c3a-b6f1-682fbb7e42ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/purchase_order/2f422fe2-167c-4ff6-9a08-fbf4eae60484/container_mode_selection')])[2]</value>
+      <webElementGuid>c8054811-007b-4d61-9905-af7e490d7986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Next' and @href = '/purchase_order/2f422fe2-167c-4ff6-9a08-fbf4eae60484/container_mode_selection' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>56c63387-53e8-43d4-8da9-31c3932cb68c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

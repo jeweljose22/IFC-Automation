@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_User details</name>
+   <tag></tag>
+   <elementGuidId>71c4f5ca-8bce-407a-8d02-3565f8bea30c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[3]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04ab57ed-cd43-4d5f-8269-7085b6f71e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-arrow</value>
+      <webElementGuid>f1ad8d2e-eb5f-47cb-bec5-62609edee1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User details</value>
+      <webElementGuid>b8f60fa0-8f3c-4f0b-b746-d0c8f3337111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;dropdown-wrap menu-down  user-menu-dropdown&quot;]/a[@class=&quot;profile-link update-notification app-btn&quot;]/span[@class=&quot;dropdown-arrow&quot;]</value>
+      <webElementGuid>ace1a8fc-9f02-41b4-9894-eba0ddbc287f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[3]/a/span[2]</value>
+      <webElementGuid>38e7fd33-2575-4dd5-a0fa-44d80a783eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::span[1]</value>
+      <webElementGuid>7714d7ca-6752-4238-b149-bfa19e15674d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading'])[1]/following::span[2]</value>
+      <webElementGuid>9dfc67e1-68dc-43a4-9925-1901e8c4ce6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marc Clara'])[1]/preceding::span[1]</value>
+      <webElementGuid>334e5d67-677a-4514-a999-6227b32c2295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anjana.p+1005@experionglobal.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>aedb1f0b-6a01-44a4-b90e-cd7033c469b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b503fa72-e378-4ba3-bb32-5036422384f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'User details' or . = 'User details')]</value>
+      <webElementGuid>77a94633-2d19-4276-badd-ab3c1335bb76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

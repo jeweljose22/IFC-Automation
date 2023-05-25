@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Goods Ready Date</name>
+   <tag></tag>
+   <elementGuidId>925df643-6775-40c1-bdde-a7a8c9b6a39e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/a[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82445649-3760-465e-8975-b87dd09bc4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>layout-title</value>
+      <webElementGuid>aa3139ad-fc2d-4105-85ad-bf2328d9d7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Goods Ready Date : </value>
+      <webElementGuid>694f1f42-5627-4a28-9c5f-cf4702349ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-confirmation&quot;]/div[@class=&quot;content-section main-wrapper&quot;]/div[@class=&quot;container-mode&quot;]/a[@class=&quot;container-mode-card&quot;]/div[@class=&quot;container-mode__body&quot;]/div[@class=&quot;confirmation-grid&quot;]/div[@class=&quot;confirmation-card&quot;]/div[@class=&quot;layout-title&quot;]</value>
+      <webElementGuid>155653a1-e55a-46ca-a325-fadb6920e690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/a[2]/div[2]/div/div/div</value>
+      <webElementGuid>dbba5109-946c-4411-99b3-2df1a9739439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation Group 4'])[1]/following::div[3]</value>
+      <webElementGuid>23e81805-2223-42b9-8eac-7b86917ebf45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Booking Proposal'])[2]/following::div[4]</value>
+      <webElementGuid>50f4a79e-cfe2-4518-8689-862efad1615c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBM :'])[2]/preceding::div[2]</value>
+      <webElementGuid>e7199ffa-116b-4272-9e37-80b098244022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination :'])[2]/preceding::div[5]</value>
+      <webElementGuid>01fba59f-b160-4d71-8849-367b6f754281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/div/div/div</value>
+      <webElementGuid>29cb2847-8486-4c2d-a50d-eae146a17f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Goods Ready Date : ' or . = 'Goods Ready Date : ')]</value>
+      <webElementGuid>46a04baa-f291-4d7c-90c1-075669f62771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

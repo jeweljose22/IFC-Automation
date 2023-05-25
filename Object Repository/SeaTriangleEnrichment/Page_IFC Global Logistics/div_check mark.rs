@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_check mark</name>
+   <tag></tag>
+   <elementGuidId>641e17bf-53c2-44b7-859c-6e8a31068289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ceb83288-c85a-4519-ba14-76121d32ba6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>964982b3-4aac-4d5f-8741-c4822eeb1f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check mark</value>
+      <webElementGuid>99b281c5-901d-489e-8d34-568e0a65b14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border purchase-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-scroll-content&quot;]/div[@class=&quot;search-filter-holder&quot;]/div[@class=&quot;filter-menu searchable-dropdown-common&quot;]/div[@class=&quot;checkbox-wrapper&quot;]/div[@class=&quot;checkbox-item&quot;]/label[@class=&quot;app-check-wrapper&quot;]/div[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>596c7453-5819-40a1-805d-c8b91bfe14b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div[2]/div/div/div/div[2]/div[2]/label/div</value>
+      <webElementGuid>f9adeb3e-7912-4d63-a511-e7cc6fb2c092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Air'])[1]/following::div[2]</value>
+      <webElementGuid>72e6e52f-2e5c-401c-a2b6-70f1d5c2634c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sarathbabu'])[1]/following::div[9]</value>
+      <webElementGuid>83f88c30-913e-4670-905e-4c4d5a21bb05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea'])[2]/preceding::div[1]</value>
+      <webElementGuid>31fbb0cb-4609-4c5f-b424-d2ccab5237a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear All'])[1]/preceding::div[2]</value>
+      <webElementGuid>809adcd8-4fa9-4515-9d00-a4987fd5f444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div[2]/label/div</value>
+      <webElementGuid>7f53a077-ff6b-4900-a951-c4087b5be1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'check mark' or . = 'check mark')]</value>
+      <webElementGuid>1c1e21f7-ab5c-4527-b145-a25d11aaba3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

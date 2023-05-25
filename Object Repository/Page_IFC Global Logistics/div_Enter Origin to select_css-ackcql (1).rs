@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter Origin to select_css-ackcql (1)</name>
+   <tag></tag>
+   <elementGuidId>be2d48c2-edff-42c9-82c7-11743cb80863</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='originPort']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>844b3f94-97bf-465c-8bcc-6d488c5b0114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-ackcql</value>
+      <webElementGuid>5048fefb-3aa9-4f9a-a228-8e44c9188c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;originPort&quot;)/div[@class=&quot;css-1v5zbql-control&quot;]/div[@class=&quot;css-1d8n9bt&quot;]/div[@class=&quot;css-ackcql&quot;]</value>
+      <webElementGuid>5b4205fb-fad6-4340-bd03-be1bb6591995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='originPort']/div/div/div[2]</value>
+      <webElementGuid>124703ed-48e8-470b-8f32-877f05f049e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Origin to select'])[1]/following::div[1]</value>
+      <webElementGuid>02a917b5-aeca-4cdf-9afc-938e8d851f93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::div[5]</value>
+      <webElementGuid>1bbd07eb-e24c-4750-b687-ec0efa41e2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter details to search'])[1]/preceding::div[2]</value>
+      <webElementGuid>d354d744-25de-4071-90e3-d00703e84094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div/div/div/div[2]</value>
+      <webElementGuid>e203b43c-2ecd-4132-a7cb-0df3c07c7332</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

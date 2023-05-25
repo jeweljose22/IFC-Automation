@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(708 O, , Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215)_react-select__input-container css-ackcql</name>
+   <tag></tag>
+   <elementGuidId>3b223709-e161-4cf5-a5b4-f3a3b05ac219</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='basicForm']/div[5]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0fb106f-4965-4618-9052-4d9d7531a057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>8955ca40-5ed0-422d-b07b-1eadada8867f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;app-modal purchase-detail-modal&quot;]/div[@class=&quot;modal-content-holder medium-popup&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-main-content&quot;]/form[@id=&quot;basicForm&quot;]/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item auto-dp-height&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pftj4c-control&quot;]/div[@class=&quot;react-select__value-container react-select__value-container--has-value css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>5e31404b-5396-4bf7-9fd4-74bc8afb2636</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basicForm']/div[5]/div/div/div/div/div[2]</value>
+      <webElementGuid>d8d62f07-0b99-45c9-9dcd-58af9c0c3827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[1]/following::div[1]</value>
+      <webElementGuid>8d35c0f9-53e2-4934-ad5e-33f5f168e59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/following::div[6]</value>
+      <webElementGuid>afe79d25-98c4-48e8-bfbb-f49f75d6da5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[2]/preceding::div[3]</value>
+      <webElementGuid>d24791f7-edea-4fbb-95d9-12ec0864f53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]</value>
+      <webElementGuid>424cbdae-1729-4c07-a487-f11a343a4a02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

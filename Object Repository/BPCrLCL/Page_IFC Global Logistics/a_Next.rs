@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next</name>
+   <tag></tag>
+   <elementGuidId>d5329dec-7384-46e8-807a-5a012a8fc0d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.app-btn.app-btn-primary.footer-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title = 'Next' and @href = '/LCLbooking_list/73f0f4ec-f596-4241-a001-a721b6d19303/attachments' and (text() = 'Next' or . = 'Next')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>196d3e08-fe59-4f7d-841f-ee0cc979414d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>353ce094-d325-4099-b95d-d664757879a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-primary footer-btn</value>
+      <webElementGuid>b61a5f2a-f658-4dbc-9d13-0a9558e12a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/LCLbooking_list/73f0f4ec-f596-4241-a001-a721b6d19303/attachments</value>
+      <webElementGuid>b57bd226-e357-46c7-9333-4d866a10e9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>4a205758-c2ff-4e55-a2ad-5f7742b5286d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;footer-bootom-row backdrop-active&quot;]/div[@class=&quot;footer-button-holder&quot;]/a[@class=&quot;app-btn app-btn-primary footer-btn&quot;]</value>
+      <webElementGuid>3d9d6d74-2c27-49b5-b442-7da3249da918</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/a[2]</value>
+      <webElementGuid>fd87a69b-c588-43ac-b829-80b8ef871a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::a[1]</value>
+      <webElementGuid>40499425-ba6b-4907-8223-68fbdb8b3e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::a[2]</value>
+      <webElementGuid>8a4568d2-3183-4f97-9cac-e8c3fe7c7860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates have been added'])[1]/preceding::a[1]</value>
+      <webElementGuid>35c39039-a98d-41ca-bbf0-52d8cf2b338a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/LCLbooking_list/73f0f4ec-f596-4241-a001-a721b6d19303/attachments')])[2]</value>
+      <webElementGuid>b2a2c965-7714-4679-a2d4-ccf68afa2608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/a[2]</value>
+      <webElementGuid>4580d94e-9dff-427f-ac07-34050a094950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Next' and @href = '/LCLbooking_list/73f0f4ec-f596-4241-a001-a721b6d19303/attachments' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>2526b9e4-a680-40fc-94df-ca5ddb3c2d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

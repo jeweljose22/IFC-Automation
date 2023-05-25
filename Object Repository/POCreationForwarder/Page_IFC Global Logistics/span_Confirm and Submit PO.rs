@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Confirm and Submit PO</name>
+   <tag></tag>
+   <elementGuidId>10dda4b1-1923-4cc3-ac22-5200d0c2df05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-text.footer-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[3]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80696945-d98e-4247-809c-c633e6bcd659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text footer-button-text</value>
+      <webElementGuid>60296862-9d44-48c7-b15d-b959c982dfc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm and Submit PO</value>
+      <webElementGuid>d4c12540-c9b8-458a-bce2-2572b8b9657e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;footer-bootom-row&quot;]/div[@class=&quot;footer-button-holder&quot;]/button[@class=&quot;app-btn app-btn-primary footer-btn&quot;]/span[@class=&quot;button-text footer-button-text&quot;]</value>
+      <webElementGuid>133a39f0-ef53-40d7-b2d9-c9b9614ed0c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[3]/div/button[2]/span</value>
+      <webElementGuid>de132524-bc9f-4a53-87cf-579b92102dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[1]</value>
+      <webElementGuid>086ecc88-f67c-485d-a90e-887a2ca55b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/following::span[2]</value>
+      <webElementGuid>762ac679-47eb-4ee6-bd48-0b7781a707c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm and Submit PO']/parent::*</value>
+      <webElementGuid>96db063b-eed0-4876-80a3-9c548e67ea73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button[2]/span</value>
+      <webElementGuid>001f57a7-d64f-48bf-b817-a20bb19a7e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Confirm and Submit PO' or . = 'Confirm and Submit PO')]</value>
+      <webElementGuid>1a038ad6-e945-4079-a079-ca9fdab9f0d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

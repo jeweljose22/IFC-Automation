@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Switch ProfileSwitch ProfileExpand row</name>
+   <tag></tag>
+   <elementGuidId>66af5aa7-afa0-49e5-b21a-4d021e4f7373</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-wrap.menu-down.menu-item.switch-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bb666c5-763f-4ea8-a3c2-c6bfc13013a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-wrap menu-down  menu-item switch-link</value>
+      <webElementGuid>37e29c22-fdbc-419b-8c7b-31e76b57784f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Switch ProfileSwitch ProfileExpand row</value>
+      <webElementGuid>13004b53-7dcb-4ffc-b165-1c792ecfc2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;dropdown-wrap menu-down  dropdown-open  user-menu-dropdown&quot;]/div[@class=&quot;dropdown-menu&quot;]/div[@class=&quot;dropdown-wrap menu-down  menu-item switch-link&quot;]</value>
+      <webElementGuid>f21f1f6b-0643-4d29-8a3b-69b2182a2cf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[3]/div/div[2]</value>
+      <webElementGuid>7126ad73-187e-4e03-8c71-8d29c072291e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anjana.p+10013@experionglobal.com'])[1]/following::div[1]</value>
+      <webElementGuid>d0850632-ad5a-4b98-8427-37530594ed70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='John Mia'])[1]/following::div[2]</value>
+      <webElementGuid>01d100cd-0156-4fc8-98ba-c1a6971d69e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/preceding::div[2]</value>
+      <webElementGuid>5f7cf351-882b-49b1-8fcd-5ea1b85f78e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]</value>
+      <webElementGuid>bc445684-2472-4559-a5cc-f8fc75a5a3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Switch ProfileSwitch ProfileExpand row' or . = 'Switch ProfileSwitch ProfileExpand row')]</value>
+      <webElementGuid>00a18432-423b-43fd-bdd6-748723c294fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

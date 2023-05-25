@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>a9e16903-9236-4fea-9828-c42fa034dc95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-text.vendor-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal_body']/div[3]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd129051-5135-468e-a8b7-ac0593e84ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text vendor-button-text</value>
+      <webElementGuid>e98f4d84-b9ba-4d18-b442-95deaed91366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>4f1eb8de-cdd2-4bbe-b2e3-66299011e4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal_body&quot;)/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;app-btn app-btn-primary modal-btn footer-btn&quot;]/span[@class=&quot;button-text vendor-button-text&quot;]</value>
+      <webElementGuid>21043192-0056-4914-85ab-67bc0d34736b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal_body']/div[3]/button[2]/span</value>
+      <webElementGuid>14b9dfe5-3227-4572-b033-cf40d7b36929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>add44786-4ccf-4104-a859-f9cd979369c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[2]</value>
+      <webElementGuid>86698048-1c44-4c31-ba5b-49907b1909a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::span[1]</value>
+      <webElementGuid>6575c382-02d0-4d66-ae81-f1b923903693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[2]</value>
+      <webElementGuid>1abd1ee7-356d-447a-a659-4f050e4f8b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>805f79b2-7987-458f-8784-6c1ffde2d355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>bc6a813a-8934-43ec-ba34-397f967e84f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>a3815b81-d751-4529-a939-b84b3b5193ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>57c8209d-2960-489f-976d-babecbb89bb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#basicForm > span.button-text.footer-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='basicForm']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>12f8bb87-3b21-4505-af3f-054bd90b982b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text footer-button-text</value>
+      <webElementGuid>f47016d2-b8be-4660-963f-064e39b5dea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>5bff43c8-1df7-4f3d-aaf3-e2056f7dec28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;app-modal purchase-detail-modal&quot;]/div[@class=&quot;modal-content-holder medium-popup&quot;]/div[@class=&quot;modal-footer&quot;]/form[@id=&quot;basicForm&quot;]/button[@id=&quot;basicForm&quot;]/span[@class=&quot;button-text footer-button-text&quot;]</value>
+      <webElementGuid>daf74238-851b-4194-b5d9-72f57b9836e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='basicForm']/span</value>
+      <webElementGuid>ef0826a3-7f1a-4412-a2e9-a9915535ab93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>dc5fa2df-3154-48d2-b448-af9854b76103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACE INTERNATIONAL FREIGHT FORWARDING PTY LTD'])[1]/following::span[2]</value>
+      <webElementGuid>a7f63165-1345-427a-b99e-491fed3557e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>6ad2e376-b0b9-445c-bb7a-545de1cbdafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>cc5e446c-644f-45ba-9697-b289be5b0bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>e8c4f4b1-27f8-47fe-aafc-1025a98ec0a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

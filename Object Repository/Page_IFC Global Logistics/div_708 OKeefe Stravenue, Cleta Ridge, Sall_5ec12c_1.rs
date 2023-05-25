@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_708 OKeefe Stravenue, Cleta Ridge, Sall_5ec12c_1</name>
+   <tag></tag>
+   <elementGuidId>8f193f8e-2f3d-41c3-8577-379a1cbf604e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__single-value.css-1u5c0xf-singleValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='basicForm']/div[5]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>827f07f0-e489-43a6-b842-0da0a75750b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__single-value css-1u5c0xf-singleValue</value>
+      <webElementGuid>0ecac1e7-534e-47c0-b330-8ffb80fe7f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>708 O'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215</value>
+      <webElementGuid>abed9c67-3be9-4ff2-a738-5eeba33fd139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;app-modal purchase-detail-modal&quot;]/div[@class=&quot;modal-content-holder medium-popup&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-main-content&quot;]/form[@id=&quot;basicForm&quot;]/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item auto-dp-height&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pftj4c-control&quot;]/div[@class=&quot;react-select__value-container react-select__value-container--has-value css-1d8n9bt&quot;]/div[@class=&quot;react-select__single-value css-1u5c0xf-singleValue&quot;]</value>
+      <webElementGuid>f9396b6f-a7c4-4a4e-bea3-dfd839b20dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basicForm']/div[5]/div/div/div/div/div</value>
+      <webElementGuid>58b0d3b5-6e7c-4f24-8a41-6316db0cb1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::div[5]</value>
+      <webElementGuid>c3e63379-ffc6-46a4-973d-32a927736a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[2]/preceding::div[4]</value>
+      <webElementGuid>e35181c9-22cf-423f-bad0-530383704f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Type'])[1]/preceding::div[10]</value>
+      <webElementGuid>d54c1f84-ddce-48d9-90ee-2b2acedffc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div</value>
+      <webElementGuid>c3b8a2c8-b90a-40a5-a801-b37afd4494d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;708 O&quot; , &quot;'&quot; , &quot;Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215&quot;) or . = concat(&quot;708 O&quot; , &quot;'&quot; , &quot;Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215&quot;))]</value>
+      <webElementGuid>a0a23e4d-8e13-4fb9-ad11-33b869e1e0af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

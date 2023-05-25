@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active POs</name>
+   <tag></tag>
+   <elementGuidId>1cd82b98-5e59-4911-850d-da85130076df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.content-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/button/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9a2c4dfc-a1e0-477b-85e8-c195052bb640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-heading</value>
+      <webElementGuid>8ebebb62-43c0-4f21-a20d-ecfc1fe8df63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active POs</value>
+      <webElementGuid>da2a5817-bbdd-4d4d-aa82-4090b7c75c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border purchase-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-purchase-grid&quot;]/div[@class=&quot;dropdown-wrap  download-dropdown search-toast-content-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary&quot;]/div[@class=&quot;purchase-dropdown-content&quot;]/div[@class=&quot;content-heading-holder&quot;]/span[@class=&quot;content-heading&quot;]</value>
+      <webElementGuid>95d3fda4-ea45-4a59-b1b3-fc50ee521edf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/button/div/div/span</value>
+      <webElementGuid>848a9c10-6946-4187-9131-5836d6d2a137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status :'])[1]/following::span[1]</value>
+      <webElementGuid>277a610c-3dee-456c-bf4e-28b8257ed141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Orders'])[1]/following::span[2]</value>
+      <webElementGuid>7ccd7f7f-c4ce-4d53-95f3-a39ad84fad8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active POs'])[2]/preceding::span[2]</value>
+      <webElementGuid>fd3bf925-5b5a-4742-931f-b17958233868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[1]/preceding::span[4]</value>
+      <webElementGuid>a0e65e6a-46c8-45ef-85f6-3fe79729cc4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active POs']/parent::*</value>
+      <webElementGuid>dba69b3a-e3bf-46fa-abca-7cb95a436610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/span</value>
+      <webElementGuid>64681989-a8c0-472f-94bb-2257687a5d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Active POs' or . = 'Active POs')]</value>
+      <webElementGuid>ddc0cb48-9e72-4b0f-ab34-ecaeebfbf828</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

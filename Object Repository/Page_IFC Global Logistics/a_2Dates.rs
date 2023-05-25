@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2Dates</name>
+   <tag></tag>
+   <elementGuidId>26de28d3-6fbd-4007-b65b-f2a9c2a56bf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[3]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>16bef8fe-d8cd-48e1-8448-4d99ae79be89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow-tab-border po-date-tab </value>
+      <webElementGuid>daf134b5-55a3-4588-88cf-1ad6b8d579ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/dates</value>
+      <webElementGuid>5a293d87-f7dd-413e-96fd-4e65b89bfc62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2Dates</value>
+      <webElementGuid>88b56307-6c6e-469d-a85f-0d0fa80029a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;main-header-content-holder large-header&quot;]/div[@class=&quot;arrow-tab-container&quot;]/div[@class=&quot;arrow-tab-holder&quot;]/a[@class=&quot;arrow-tab-border po-date-tab&quot;]</value>
+      <webElementGuid>0c33ac4e-fdc8-465d-84b7-392dc0e7fa5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[3]/div/a[2]</value>
+      <webElementGuid>fe18bb6d-4764-49c6-956d-81533a615ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Details'])[1]/following::a[1]</value>
+      <webElementGuid>088231be-f5c5-48e9-be2b-863cc0497648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Order Value'])[1]/following::a[2]</value>
+      <webElementGuid>53cc2311-a68f-4264-b15f-074abfa541a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>c93f910f-ba14-40f0-b6f5-a67eecc15e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/dates')]</value>
+      <webElementGuid>49ad26df-b8b4-4e78-8479-0fac885c9007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/a[2]</value>
+      <webElementGuid>934093e1-56fd-4bed-924e-e9842a8784a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/dates' and (text() = '2Dates' or . = '2Dates')]</value>
+      <webElementGuid>69489b40-9738-46a9-8fa9-bf910f330bd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

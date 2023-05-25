@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Status Awaiting Enrichment79Expand row</name>
+   <tag></tag>
+   <elementGuidId>afdcdef7-4446-4cf4-b5cd-f6a204c0cf21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f216bc9-66e0-4b9b-885e-7d829b53aa5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-secondary</value>
+      <webElementGuid>3294634d-3e1d-462d-8d2d-d800c7bf021e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Status :Awaiting Enrichment79Expand row</value>
+      <webElementGuid>47518237-2002-48a0-8a76-a6284d0b21f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder no-main-grid-border purchase-grid&quot;]/div[@class=&quot;grid-section&quot;]/div[@class=&quot;grid-holder&quot;]/div[@class=&quot;grid-header&quot;]/div[@class=&quot;search-field-purchase-grid&quot;]/div[@class=&quot;dropdown-wrap  download-dropdown search-toast-content-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary&quot;]</value>
+      <webElementGuid>e14ebc0a-e7f1-4634-b2a3-23371023f723</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>44e0b739-9a66-4069-8d2c-9bca6d0a1499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purchase Orders'])[1]/following::button[2]</value>
+      <webElementGuid>215ab173-225c-4f91-ad7f-a3a99fa27fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[2]</value>
+      <webElementGuid>a97e50b5-cb66-4e85-88c4-66f9a43a8ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>94c27c8c-f0d3-4d63-84d5-5a1bd37a5abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Status :Awaiting Enrichment79Expand row' or . = 'Status :Awaiting Enrichment79Expand row')]</value>
+      <webElementGuid>90590ef7-24c0-497d-b6d9-975c53891dd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

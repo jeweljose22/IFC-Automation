@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_logoutLogout</name>
+   <tag></tag>
+   <elementGuidId>29436962-9a9e-49b0-9779-6594a76856b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-item.logout-link.btn-pointer-cursor</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[3]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2bb4cb97-2c0a-4a70-8f28-05fb52afd8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item logout-link btn-pointer-cursor</value>
+      <webElementGuid>559d38df-0eb3-4ba4-b47e-b44a7ca024f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>acf8ef2b-37ce-451c-8087-3a4e5dde5555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>logoutLogout</value>
+      <webElementGuid>35196972-83f9-4195-9df9-33734ce60495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;dropdown-wrap menu-down  dropdown-open  user-menu-dropdown&quot;]/div[@class=&quot;dropdown-menu&quot;]/a[@class=&quot;menu-item logout-link btn-pointer-cursor&quot;]</value>
+      <webElementGuid>af66a0a4-2010-4761-900e-6af9c70e4a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[3]/div/a[2]</value>
+      <webElementGuid>bd7e6c6c-f9ab-4374-a8d6-8be23be4cff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/following::a[1]</value>
+      <webElementGuid>09f31a50-7e1a-47ac-838b-df02cc735313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Profile'])[2]/following::a[2]</value>
+      <webElementGuid>47ac5cd7-c85b-4b33-89dd-a5a02ca495a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::a[1]</value>
+      <webElementGuid>d92c2709-52c9-4bb6-bfe2-70d569c7b2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[2]</value>
+      <webElementGuid>3510dad5-1094-453b-a06a-d066f8e7a48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Logout' and (text() = 'logoutLogout' or . = 'logoutLogout')]</value>
+      <webElementGuid>c6ee9c59-d39b-4950-8028-e5ef45b46e63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

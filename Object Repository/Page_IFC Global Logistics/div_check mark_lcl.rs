@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_check mark_lcl</name>
+   <tag></tag>
+   <elementGuidId>a380537c-c669-457e-a44a-ee29c392457f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1ddff8f-d67d-46f7-a5b1-55e156b3134b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>bd0e5b61-cb73-44a0-b2bd-d4d2b03c51c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check mark</value>
+      <webElementGuid>1b929825-ccf7-4b5b-a15a-55e35d48cd76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container selected-change-vessel-wrapper lcl-existing-schelude&quot;]/div[@class=&quot;content-section main-wrapper existing-schelude&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;view-list-grid&quot;]/div[@class=&quot;list-grid&quot;]/div[@class=&quot;grid-child-item col-grid-checkbox-item&quot;]/div[@class=&quot;grid-child-data&quot;]/div[@class=&quot;checkbox-item&quot;]/label[@class=&quot;app-check-wrapper&quot;]/div[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>fd3587f6-c3f7-446f-8594-6c716bc51a7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/div/label/div</value>
+      <webElementGuid>8aa7b7cc-5284-4dec-9328-8cda3d0591a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Schedules'])[2]/following::div[8]</value>
+      <webElementGuid>c6d3466f-ba34-4e5f-8ebb-43c8a099db28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Schedules'])[1]/following::div[12]</value>
+      <webElementGuid>477ebe8c-f6cf-45a4-be93-fab0d326c5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CMA CGM AUSTRALIA'])[1]/preceding::div[2]</value>
+      <webElementGuid>b8388c53-981f-4d21-b6c0-7222f26cc937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>9fa20f86-df8d-4b7d-b7a4-94d799485365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'check mark' or . = 'check mark')]</value>
+      <webElementGuid>d7fffcbe-7433-418a-83f3-7d90c3de066e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

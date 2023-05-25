@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Sydney (AUSYD)</name>
+   <tag></tag>
+   <elementGuidId>4eded695-2569-4868-b99d-ba5340cd1f9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/table/tbody/tr/td[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d79b4306-fc77-4dc6-8895-353d2bb8d1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-cell</value>
+      <webElementGuid>a4ef40ec-f6d2-4abb-b9ab-9536c4477c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sydney (AUSYD)</value>
+      <webElementGuid>2f13befb-88c3-4f14-abb1-a8a36799b4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/table[@class=&quot;grid-table&quot;]/tbody[1]/tr[@class=&quot;has-child row-expanded no-border&quot;]/td[@class=&quot;grid-cell&quot;]</value>
+      <webElementGuid>895d4d37-b206-41a6-8ac2-e5c3b04403e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/table/tbody/tr/td[9]</value>
+      <webElementGuid>99b1dd79-d6a3-4742-82db-c29bcc585e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melbourne (AUMEL)'])[1]/following::td[1]</value>
+      <webElementGuid>605e88b5-b4a0-4fd9-a8ae-b9d4465ae639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(R:34)'])[1]/following::td[3]</value>
+      <webElementGuid>7042280d-fa34-4428-843c-db7e1267f5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[1]/preceding::td[1]</value>
+      <webElementGuid>069b361e-be31-4a4c-bf02-d1ba55e80326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]</value>
+      <webElementGuid>45d07d29-9c8d-4eb1-99e1-60c8e779c30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Sydney (AUSYD)' or . = 'Sydney (AUSYD)')]</value>
+      <webElementGuid>af3dd1fd-f45f-4eaf-9ed3-6afaf2c186e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

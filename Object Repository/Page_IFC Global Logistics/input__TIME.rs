@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__TIME</name>
+   <tag></tag>
+   <elementGuidId>81587d16-7433-42f7-ac3e-192a9158801b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-input-layout-item.calendar.date-time > input.modal-input.input-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9e621df1-3343-40b9-a8c1-9f1c9a9271ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter time </value>
+      <webElementGuid>c4d6f156-df64-4c23-a61c-3b590ae69d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>time</value>
+      <webElementGuid>c95ce3d0-ec49-4543-991f-a279442f936d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-input input-text</value>
+      <webElementGuid>285f1bff-bdc5-4f8a-8e49-f75120471747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profile-form&quot;)/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item calendar date-time&quot;]/input[@class=&quot;modal-input input-text&quot;]</value>
+      <webElementGuid>e5807b94-eea1-4734-8f86-6efa28788331</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>9a61c50f-0caa-4cdf-9b59-b4660a162698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='profile-form']/div[2]/div/input</value>
+      <webElementGuid>ceb82dd4-2629-4f6d-8e67-dcdd3535a4e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>c83ba8e8-4a67-42ac-ae4e-b62d70337dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter time ' and @type = 'time']</value>
+      <webElementGuid>d82df097-841a-4777-a43c-4d1839b74fc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

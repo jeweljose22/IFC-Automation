@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter Client Name to select_react-selec_dfc0a4</name>
+   <tag></tag>
+   <elementGuidId>2358febd-4eed-464f-aa51-f3c0b2ea3d9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21f49173-48f3-4bec-b8b9-a910cebd6e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>82eb7e60-92e0-4986-8718-75d137e08311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/div[@class=&quot;modal-input-holder layout-item&quot;]/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1gpebql-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>26862e88-a5a1-4e12-9045-d10b5a5eb875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>65b7b5d1-6917-4f5e-96fc-faa8cd4d140c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Client Name to select'])[1]/following::div[1]</value>
+      <webElementGuid>38812339-0274-41e0-a717-d46a2de29119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Name'])[1]/following::div[6]</value>
+      <webElementGuid>6ccdde36-d709-443a-87d0-b67168ffa8e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GOLD CHECK INDUSTRIAL LTD'])[1]/preceding::div[2]</value>
+      <webElementGuid>7e54283b-951e-41c7-b8dc-7c78d6b654bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New enterprices'])[1]/preceding::div[3]</value>
+      <webElementGuid>85729f65-98d2-4a98-a021-f3c2b0daa829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>4b76eda4-ae71-4cfe-a324-df0a3e6b4f5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

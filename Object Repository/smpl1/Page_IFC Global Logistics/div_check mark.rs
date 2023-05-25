@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_check mark</name>
+   <tag></tag>
+   <elementGuidId>dd425fb8-b603-4adb-80b4-e6171cf5b60f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkmark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div[2]/div[3]/div/div/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be588079-df9f-41d7-84a7-965887d9394c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>5341d18c-ea6d-46b9-ae07-37bb0bbd02c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check mark</value>
+      <webElementGuid>f62515c6-280c-40f0-8828-d146c46f2f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-sailing-schelude&quot;]/div[@class=&quot;main-wrapper&quot;]/div[1]/div[@class=&quot;booking-sailing-schelude-container&quot;]/div[@class=&quot;sailing-right-section&quot;]/div[@class=&quot;view-list-grid&quot;]/div[@class=&quot;list-grid&quot;]/div[@class=&quot;grid-child-item col-grid-checkbox-item&quot;]/div[@class=&quot;grid-child-data&quot;]/div[@class=&quot;checkbox-item&quot;]/label[@class=&quot;app-check-wrapper&quot;]/div[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>094f3bdb-7624-4500-89c9-6fbb5cd5c11e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div[2]/div[3]/div/div/div/div/label/div</value>
+      <webElementGuid>26342c9c-6b0a-4597-a337-225b145d6c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAERSK LOGISTICS'])[1]/preceding::div[2]</value>
+      <webElementGuid>3ceb059c-688e-46d6-be1f-764f07ca2cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M145-BB234'])[1]/preceding::div[3]</value>
+      <webElementGuid>5ba9a835-a2e0-4a0c-b6b1-cf43bcf6c951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>7603c34f-b6f1-4aac-a6cb-1c7ad07d489c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'check mark' or . = 'check mark')]</value>
+      <webElementGuid>387d21de-a892-4dcc-b491-0ff9548038d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

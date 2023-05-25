@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_International PO</name>
+   <tag></tag>
+   <elementGuidId>dac60b59-8b07-45d1-aeba-98ddfa93db25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-list-item-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/nav/div[2]/div/div/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c1342f5-3123-45f2-a762-d6a40c84cc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-list-item-link</value>
+      <webElementGuid>4532871c-a64b-4408-a6ce-9c0d37eb207f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchase_order</value>
+      <webElementGuid>0b5344b9-d2b8-4280-9552-34c5fe55b6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>International PO</value>
+      <webElementGuid>7f5b6dd7-fe9a-4bc4-93fb-ef5a78164a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/nav[@class=&quot;main-nav&quot;]/div[@class=&quot;main-menu-wrapper header-nav menu-active&quot;]/div[@class=&quot;sub-menu-header-menu-wrapper type1 mega-sub-menu&quot;]/div[@class=&quot;menu-item-type&quot;]/div[@class=&quot;menu-header-holder&quot;]/div[@class=&quot;menu-fields&quot;]/ul[@class=&quot;menu-field-items&quot;]/li[@class=&quot;menu-list-item&quot;]/a[@class=&quot;menu-list-item-link&quot;]</value>
+      <webElementGuid>f0d60974-399d-4eb3-8ca5-5455843da20d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/nav/div[2]/div/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>90775a78-3a23-4536-9a46-b06318a61355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'International PO')]</value>
+      <webElementGuid>8f71eaea-c386-4443-bdea-9bc1650f639d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::a[1]</value>
+      <webElementGuid>ae09dd26-8c9b-44ee-9396-d3b417fe0600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>3b979a78-d9b0-4b64-9437-88d0e04228e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inbound PO'])[1]/preceding::a[1]</value>
+      <webElementGuid>42193807-0594-416f-a448-be79044ab95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allocation Orders'])[1]/preceding::a[2]</value>
+      <webElementGuid>7a870af4-1331-44e7-a412-71a025893518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='International PO']/parent::*</value>
+      <webElementGuid>718fe9e1-cf88-4a77-b18f-fa247da57aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/purchase_order')]</value>
+      <webElementGuid>5c1de713-da7b-413c-8646-3a55b0465f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>a125fe1f-d9fc-44b7-b504-70d055551f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchase_order' and (text() = 'International PO' or . = 'International PO')]</value>
+      <webElementGuid>f2e09916-4e24-4fa1-8538-86b00a01e518</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

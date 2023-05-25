@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close</name>
+   <tag></tag>
+   <elementGuidId>5db5d690-9733-4f9b-b47a-4fb75ed384a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.modal-close-btn > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[4]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>78330aff-866a-4578-9f83-62ec6ba05c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>0a5bf826-34d4-4610-817b-c3799d3553c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;app-modal&quot;]/div[@class=&quot;modal-content-holder header-password-expiry-popup&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;app-btn modal-close-btn&quot;]/span[1]</value>
+      <webElementGuid>e4cf8d10-bca0-4aae-94a7-3d98c634c570</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[4]/div/div/button/span</value>
+      <webElementGuid>47bbf707-5c68-4483-a6df-0e56765d47f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Expiry'])[1]/following::span[1]</value>
+      <webElementGuid>61a2fae0-040a-4cc2-a326-824bd5ebc385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::span[1]</value>
+      <webElementGuid>66aa5498-db4c-4189-b60f-fcf2cf3c94e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[3]/preceding::span[1]</value>
+      <webElementGuid>e574feac-8a33-412c-a145-3b1c885b127d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>7faca454-24fd-405f-929a-2858879ff972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>f0fe1819-2903-44f9-afd9-1a17dee3c552</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

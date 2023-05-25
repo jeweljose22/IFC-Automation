@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LCLPending Selection ClientConfirmation G_e4ca29</name>
+   <tag></tag>
+   <elementGuidId>35225888-904d-4262-a159-523cbb900c42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.container-mode-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c8b0c49c-0cab-4bd1-ad5d-8cece5637138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-mode-card</value>
+      <webElementGuid>9f5a27d9-e472-42f8-88a0-08304f930489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchase_order/ed77e672-2b5b-4a3d-911c-1d1cc055c404/container_mode_selection/4e8e1391-3a95-4b60-838b-6f5bc689b74b</value>
+      <webElementGuid>f556772d-176a-4a79-a3a6-ec22702edbd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LCLPending Selection: ClientConfirmation Group 1Goods Ready Date : 17-03-2023CBM :3Destination :ShipBottom (USSBQ)PO lines :1</value>
+      <webElementGuid>a7045a39-249b-45f7-974d-9db38d8178f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-confirmation&quot;]/div[@class=&quot;content-section main-wrapper&quot;]/div[@class=&quot;container-mode&quot;]/a[@class=&quot;container-mode-card&quot;]</value>
+      <webElementGuid>6a7d5535-d825-4d6f-8edf-6b746973e09c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/a</value>
+      <webElementGuid>e74420a1-dc1f-4547-ae90-b1eb3006f6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Mode Selection'])[1]/following::a[1]</value>
+      <webElementGuid>cf60cda4-2f75-4975-8fe7-c6049cacf9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details Confirmation'])[1]/following::a[2]</value>
+      <webElementGuid>981679bf-c5d8-42dc-8b33-b56844a55e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/purchase_order/ed77e672-2b5b-4a3d-911c-1d1cc055c404/container_mode_selection/4e8e1391-3a95-4b60-838b-6f5bc689b74b')])[2]</value>
+      <webElementGuid>238dcbac-4c0b-45d7-a540-8ed05d864d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/a</value>
+      <webElementGuid>5d358b3c-a6f8-47cd-b898-2851042e3aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchase_order/ed77e672-2b5b-4a3d-911c-1d1cc055c404/container_mode_selection/4e8e1391-3a95-4b60-838b-6f5bc689b74b' and (text() = 'LCLPending Selection: ClientConfirmation Group 1Goods Ready Date : 17-03-2023CBM :3Destination :ShipBottom (USSBQ)PO lines :1' or . = 'LCLPending Selection: ClientConfirmation Group 1Goods Ready Date : 17-03-2023CBM :3Destination :ShipBottom (USSBQ)PO lines :1')]</value>
+      <webElementGuid>7ff99eb8-9921-4d3d-9830-664c7e4165f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

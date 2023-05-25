@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Attach file</name>
+   <tag></tag>
+   <elementGuidId>407b9474-5997-4042-aeda-73ebb5e91731</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69754237-7a04-42f0-b45e-b51c3d4ebd3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b10253d7-e368-4ee6-88fa-7c34e146daf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn </value>
+      <webElementGuid>e7b9aaf5-fe3f-406a-bdc9-31dead6a6e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Attach file</value>
+      <webElementGuid>7fe0af5a-e21e-415a-9585-250a4ab8a743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Attach file</value>
+      <webElementGuid>cd878f6e-1276-432b-a2c0-e5f2d7a6df1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container booking-change-vessel&quot;]/div[@class=&quot;content-section main-wrapper change-vessel-detail air-booking-manual&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;manual-entry-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder buy-quote&quot;]/div[@class=&quot;layout-holder two-column&quot;]/div[@class=&quot;layout-item&quot;]/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;content-with-icon  attachment-holder&quot;]/button[@class=&quot;app-btn&quot;]</value>
+      <webElementGuid>e6497e71-f16e-45ac-ae5b-0f3442af0e05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>57d5a799-0068-408e-8582-c1e8f21e49a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/div/div[2]/div[4]/div/div/div/button</value>
+      <webElementGuid>af0f7511-f677-418e-bf87-b28c57103fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[1]</value>
+      <webElementGuid>c7509772-2b2c-47c6-8cfb-60b070b9fe5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oops.pdf'])[1]/preceding::button[1]</value>
+      <webElementGuid>bde7cfdf-feb4-43ef-bc54-b945917a957f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[1]</value>
+      <webElementGuid>c8a52d40-6ce5-45f5-8f0e-eb77c531b97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button</value>
+      <webElementGuid>013d78d4-d57e-4218-9e1d-2985a6c8d530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Attach file' and (text() = 'Attach file' or . = 'Attach file')]</value>
+      <webElementGuid>19f4e9d3-5bc0-41d3-8b27-a4e1a42d8f46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

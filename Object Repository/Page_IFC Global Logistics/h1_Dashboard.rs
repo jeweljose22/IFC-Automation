@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>40288464-9d81-4e39-beda-b974f8246cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.header-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8cb2156d-1a6c-44b2-a484-ad7d56ac74fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-title</value>
+      <webElementGuid>7c346ee8-9270-4715-a090-5d5508f81a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>850b0544-0a5b-4066-8dd9-2ab1ca256470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container dashboard-wrapper&quot;]/div[@class=&quot;main-header-content-holder dashboard-header&quot;]/div[@class=&quot;dashborad-header-right-section&quot;]/h1[@class=&quot;header-title&quot;]</value>
+      <webElementGuid>5c5a4345-2875-421d-ae3a-f9d9988029e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/h1</value>
+      <webElementGuid>cfb69cb6-45d1-46fb-9b60-671013f02406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::h1[1]</value>
+      <webElementGuid>46ef0098-1ffb-4379-b1b9-a20fc21b4cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/following::h1[1]</value>
+      <webElementGuid>35052cbb-65cf-4bf5-9b3c-dedb9ad63838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search and filter Dashboard'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e0b2a8f0-519e-4910-b510-f7db05578bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insights'])[1]/preceding::h1[1]</value>
+      <webElementGuid>2bdf3d1c-9011-4fdc-95a9-a799d9e79b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>8fae006b-2724-40f1-92ea-53300037ba59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>3a5304a3-cc34-417f-a51d-8e4d56f1fd6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

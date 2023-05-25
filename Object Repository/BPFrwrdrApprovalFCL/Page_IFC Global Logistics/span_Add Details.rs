@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Details</name>
+   <tag></tag>
+   <elementGuidId>9c86e091-626b-4b17-8e8c-f1ea2dc4fb11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>635f8a7e-cd11-4479-b538-2036815df7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+      <webElementGuid>37d30cd0-34a3-4925-bd26-bc9476e3cba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Details</value>
+      <webElementGuid>f06b47b3-61d8-4f7e-ad2d-4934c87e8666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-additional-detail&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;booking-additional-detail-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder&quot;]/div[@class=&quot;btn-holder&quot;]/button[@class=&quot;app-btn app-btn-secondary icon-button&quot;]/span[@class=&quot;button-text&quot;]</value>
+      <webElementGuid>b190b686-7114-4a65-b6db-15f7a45b36e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>02271ca6-d308-42f5-965e-905624b3c785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Details'])[2]/following::span[1]</value>
+      <webElementGuid>7f3776ea-d687-4fe4-8f36-5dc7246dafea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Details'])[1]/following::span[1]</value>
+      <webElementGuid>03e33927-c824-41b4-b25d-ce4c8ce2d741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference No'])[1]/preceding::span[1]</value>
+      <webElementGuid>f14d9158-a816-4ba2-9ae8-3bf8174e3321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>0ff3144f-8889-413e-ba0b-f2bec0b00ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Details']/parent::*</value>
+      <webElementGuid>92c99dfe-8de1-4354-a3f6-c686502e3665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>e9b84fe4-f547-48e3-b2ef-d505533ee7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Details' or . = 'Add Details')]</value>
+      <webElementGuid>30d623c0-d438-431a-b3b7-013f1dd42db6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

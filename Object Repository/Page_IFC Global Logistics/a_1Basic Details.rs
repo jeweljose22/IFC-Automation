@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1Basic Details</name>
+   <tag></tag>
+   <elementGuidId>b352d8d9-6281-4932-b3cf-6da774663494</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.arrow-tab-border.active.active.po-basic-tab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f35b7256-5107-4a4a-86f7-8e4d0a6951d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>3d807b55-b8e4-4968-935e-c8e24c8b040b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow-tab-border active active po-basic-tab</value>
+      <webElementGuid>2e4910c0-9157-480f-b1e3-d581482400ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1Basic Details</value>
+      <webElementGuid>4464bfff-60ac-4683-9754-3df5da552648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;main-header-content-holder large-header&quot;]/div[@class=&quot;arrow-tab-container&quot;]/div[@class=&quot;arrow-tab-holder&quot;]/a[@class=&quot;arrow-tab-border active active po-basic-tab&quot;]</value>
+      <webElementGuid>8ab48af0-f3c0-43cb-939d-b20295bff668</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[3]/div/a</value>
+      <webElementGuid>d1b68f86-dd9c-4025-8320-9e17021528ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Order Value'])[1]/following::a[1]</value>
+      <webElementGuid>c9a08f68-c0ff-44ed-a0bc-84314cd05865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Kgs'])[1]/following::a[1]</value>
+      <webElementGuid>55a45bce-2769-4dba-8975-d8253d462856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[1]/preceding::a[1]</value>
+      <webElementGuid>39d50b87-989d-496a-a09f-4bf301d663ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/a</value>
+      <webElementGuid>b7a70983-3ce7-4156-be7a-dd3ccf8b03f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '1Basic Details' or . = '1Basic Details')]</value>
+      <webElementGuid>8aff3e92-851f-4123-a3da-84b9831df349</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

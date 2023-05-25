@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Booking Management</name>
+   <tag></tag>
+   <elementGuidId>8583992e-d357-4504-aad2-cc9fd57685b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/nav/div[2]/div/div[2]/div[2]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2c9a81a8-45cd-4fba-84de-42a8441d9d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-list-item-link</value>
+      <webElementGuid>300ad455-be1d-44ac-9887-f942a7762ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/booking_list</value>
+      <webElementGuid>bae7f70b-5840-450a-9732-d48e7857edf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Booking Management</value>
+      <webElementGuid>813b16eb-c0cb-42d3-9f09-30a5c4171125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/nav[@class=&quot;main-nav&quot;]/div[@class=&quot;main-menu-wrapper header-nav menu-active&quot;]/div[@class=&quot;sub-menu-header-menu-wrapper type1 mega-sub-menu&quot;]/div[@class=&quot;menu-item-type&quot;]/div[@class=&quot;menu-header-holder&quot;]/div[@class=&quot;menu-fields&quot;]/ul[@class=&quot;menu-field-items&quot;]/li[@class=&quot;menu-list-item&quot;]/a[@class=&quot;menu-list-item-link&quot;]</value>
+      <webElementGuid>331422fe-b890-4803-8619-9b277792dbd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/nav/div[2]/div/div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>7013152d-479c-4bc3-ae77-eea877ac3ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Booking Management')]</value>
+      <webElementGuid>6ebd0e61-84a5-4a29-b76b-0bd43cc71023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking'])[1]/following::a[1]</value>
+      <webElementGuid>950ca50c-4f15-4abb-be4a-ebb5064115b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allocation Orders'])[1]/following::a[1]</value>
+      <webElementGuid>d46605d9-ad7e-4cb8-8753-9f5f1898f841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Containers'])[1]/preceding::a[1]</value>
+      <webElementGuid>10ea56e9-5c4e-4ac8-ab0e-890fb87ff211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Containers Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>b5c9aa91-9582-4b5a-b43f-9a74c1e6362a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Booking Management']/parent::*</value>
+      <webElementGuid>85900d88-38f1-4dba-b772-aef5bf2afb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/booking_list')]</value>
+      <webElementGuid>66469655-1a5d-4a32-860f-51b88e4f2619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li/a</value>
+      <webElementGuid>60c275ac-b864-4beb-b627-25351915e93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/booking_list' and (text() = 'Booking Management' or . = 'Booking Management')]</value>
+      <webElementGuid>ed537d1e-5c4d-4540-8841-022e28b9c0d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

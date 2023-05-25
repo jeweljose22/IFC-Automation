@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select currency_react-select__input-con_539a28</name>
+   <tag></tag>
+   <elementGuidId>f5bf8402-6ecf-4e35-aee2-0a27965a305c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d176777-601e-46ec-9dc4-ad8f3f89f2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>70ce1ff7-fcc1-4192-9d71-7eecb8127e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container booking-change-vessel&quot;]/div[@class=&quot;content-section main-wrapper change-vessel-detail air-booking-manual&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;manual-entry-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder buy-quote&quot;]/div[@class=&quot;layout-holder two-column&quot;]/div[@class=&quot;layout-item&quot;]/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;total-term-wrapper&quot;]/div[@class=&quot;dropdown-wrap menu-down modal-dropdown search-toast-content-holder&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pftj4c-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>b9e57ffc-7b73-4055-bb6a-a0ff8c86daa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/div/div[2]/div[3]/div/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>3e478566-239c-4732-b818-34f75417b2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select currency'])[1]/following::div[1]</value>
+      <webElementGuid>21fbc00f-6078-4f16-97f6-c2be0c127d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[9]</value>
+      <webElementGuid>c4c1380f-b1bf-4c4d-9f49-cddd8f9bac8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/preceding::div[2]</value>
+      <webElementGuid>3e532985-028c-4820-985e-b9276e0ffc47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AFN'])[1]/preceding::div[3]</value>
+      <webElementGuid>5d15ef4b-8b37-45c4-a229-8430abacff42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>2795c538-4a6c-4e9a-8bfb-9cae45f5275b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Forwardingdropdown</name>
+   <tag></tag>
+   <elementGuidId>ea8e38af-c32b-4bba-a57f-e6b9353859dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[(text() = 'Forwardingdropdown' or . = 'Forwardingdropdown')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04056d4b-6659-45c3-b06b-a2a22f2e40a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-nav</value>
+      <webElementGuid>4580c8ce-b910-4f9b-8e53-aeb90029a46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forwardingdropdown</value>
+      <webElementGuid>795a8fce-b44f-453f-a6be-792d0b759c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/nav[@class=&quot;main-nav&quot;]/div[@class=&quot;main-menu-wrapper header-nav&quot;]/a[@class=&quot;header-nav&quot;]</value>
+      <webElementGuid>dff5dd30-4e9f-434d-99d3-d6dfc3a2b1d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/nav/div[2]/a</value>
+      <webElementGuid>6a2a0536-8592-4000-88f7-2e2a41da3b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[1]</value>
+      <webElementGuid>0378f750-c743-4dfb-bd4c-30db7291a7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/preceding::a[1]</value>
+      <webElementGuid>a445754e-e0a0-4fe2-bb49-d2302bee97df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='International PO'])[1]/preceding::a[1]</value>
+      <webElementGuid>28b5f3d5-1b53-4203-8f54-d1ef9e3b6533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Forwarding']/parent::*</value>
+      <webElementGuid>b047b505-7112-489f-90b0-111d7354814a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>d210a5ef-472a-4487-9573-37539b4dac7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Forwardingdropdown' or . = 'Forwardingdropdown')]</value>
+      <webElementGuid>aba1a9b3-dbd4-4982-ac1c-ead213ae3cf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

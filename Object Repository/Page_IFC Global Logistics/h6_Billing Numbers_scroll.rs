@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Billing Numbers_scroll</name>
+   <tag></tag>
+   <elementGuidId>fff2fdf8-d7c2-4b47-80a0-e5633afee406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/div[2]/div/div/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>3eefee60-b244-4309-b6b7-a2cbdb580fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>details-box-heading-2</value>
+      <webElementGuid>ba1f05b3-088a-4a62-b85f-bb2fd627d354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Numbers</value>
+      <webElementGuid>9d90b631-bf72-4968-8514-1b8b684236e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-additional-detail&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;booking-additional-detail-wrapper&quot;]/div[@class=&quot;booking-detail-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;card-head-holder add-btn-holder&quot;]/div[@class=&quot;card-head-btn-edit-holder&quot;]/h6[@class=&quot;details-box-heading-2&quot;]</value>
+      <webElementGuid>e5bf2062-f05e-405a-9f21-2c5d7cb539e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div[2]/div[2]/div/div/h6</value>
+      <webElementGuid>fb0c28cc-3180-444f-b940-0ed0b54c03c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::h6[1]</value>
+      <webElementGuid>1c565c41-ae41-4848-bad3-ee515025a05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::h6[1]</value>
+      <webElementGuid>f2aed49b-db77-46b7-add9-45159675e280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Details'])[2]/preceding::h6[1]</value>
+      <webElementGuid>b2a63b9c-fa68-4ac9-9175-f3edd6d83588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Billing Numbers']/parent::*</value>
+      <webElementGuid>cc700c43-4548-4f11-a073-397672acff24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/h6</value>
+      <webElementGuid>e1f3f8a7-ed8a-490c-ad9c-7d5a6bd629c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Billing Numbers' or . = 'Billing Numbers')]</value>
+      <webElementGuid>3bd23450-12dd-4dd3-8a2a-3928d0e37e8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Currency code</name>
+   <tag></tag>
+   <elementGuidId>d007a8f0-4a3f-4785-a591-44555de82f26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.placeholder-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/div[2]/div/div/div[2]/div/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>81bf4b81-b98d-439b-bd81-a71ea8f71f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder-text</value>
+      <webElementGuid>df0691bf-ca98-44e0-8ae0-3e2a9f5fe697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Currency code</value>
+      <webElementGuid>39fc0254-d2e8-4ac7-a50b-9d263f0d0ca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;total-term-wrapper&quot;]/div[2]/div[@class=&quot;dropdown-wrap menu-down currency-dropdown  modal-dropdown&quot;]/button[@class=&quot;menu-btn app-btn modal-input select-modal&quot;]/span[@class=&quot;placeholder-text&quot;]</value>
+      <webElementGuid>94751651-1428-4f3a-9079-eef66bc53c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/div[2]/div/div/div[2]/div/button/span[2]</value>
+      <webElementGuid>bf692784-4a58-4965-a67e-3542e402473e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[3]</value>
+      <webElementGuid>76092fe1-dbf5-4d18-ab38-a6ae295eb798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/preceding::span[2]</value>
+      <webElementGuid>2e4f11b1-d933-407c-8f8c-7e1653569a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AFN'])[1]/preceding::span[2]</value>
+      <webElementGuid>a42e7674-f05c-4a20-9b04-440535a1d323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Currency code']/parent::*</value>
+      <webElementGuid>f0ec5980-7a50-43ce-8643-86a21f35b1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>b2a78975-7a87-44eb-ba27-3f2162f8be7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Currency code' or . = 'Currency code')]</value>
+      <webElementGuid>0b03994b-1cc8-4ac5-9cea-640c834d4238</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

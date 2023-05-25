@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next Month_pocreation_calender</name>
+   <tag></tag>
+   <elementGuidId>ebb78f9e-fc75-4a98-a51f-e0ab0f61ff43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.react-datepicker__navigation.react-datepicker__navigation--next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Next Month' or . = 'Next Month')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a3d37dfc-2d0a-4d03-bc51-d59c23dd367c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d2d11d8-b3d9-47a6-aab8-faeae06524b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__navigation react-datepicker__navigation--next</value>
+      <webElementGuid>5c2e88a9-2caa-42cd-a3b4-fb66572d22ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next Month</value>
+      <webElementGuid>876e0b99-9171-4a94-9605-009bb26fad2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Month</value>
+      <webElementGuid>d2345f3d-3e3e-4aa1-bc3b-cde706d5247c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;date-portal&quot;)/div[1]/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/button[@class=&quot;react-datepicker__navigation react-datepicker__navigation--next&quot;]</value>
+      <webElementGuid>e45de870-dfba-4cf6-a2b0-d0179d26e251</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>4b0b4a9b-d244-4f71-96ae-1a1bd6fcff80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='date-portal']/div/div/div[2]/div/div/button</value>
+      <webElementGuid>df8351e0-f5ec-467b-bea6-dd4aac27b0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[1]</value>
+      <webElementGuid>56c80ac9-4c18-40e0-9abc-953923e276cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
+      <webElementGuid>831b6b65-1599-4547-a609-9e1e49d3b393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2023'])[1]/preceding::button[1]</value>
+      <webElementGuid>f5437951-4d03-46fb-b091-0e7d6c69dac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>c8ad77b6-fc8a-4f03-bee1-fad04e8478de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Next Month' or . = 'Next Month')]</value>
+      <webElementGuid>f410a36f-e894-4261-8fa4-a18a092ccbb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

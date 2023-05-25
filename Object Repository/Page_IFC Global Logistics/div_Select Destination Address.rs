@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Destination Address</name>
+   <tag></tag>
+   <elementGuidId>9af99aaa-fb45-4104-9cd5-0cc4eeaa4813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__value-container.css-1d8n9bt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='basicForm']/div[5]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdd33a12-28b2-4b0e-9ac5-afe1153bc2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container css-1d8n9bt</value>
+      <webElementGuid>54236c56-2ed5-4919-bc4e-01e04a6e15f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Destination Address</value>
+      <webElementGuid>ca4acd42-42bd-4df6-88b8-f489a791b626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;app-modal purchase-detail-modal&quot;]/div[@class=&quot;modal-content-holder medium-popup&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-main-content&quot;]/form[@id=&quot;basicForm&quot;]/div[@class=&quot;modal-input-holder&quot;]/div[@class=&quot;modal-input-layout-item auto-dp-height&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pftj4c-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]</value>
+      <webElementGuid>9bddde4a-4aaa-40b8-88ec-99763dc85f03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basicForm']/div[5]/div/div/div/div</value>
+      <webElementGuid>07d5baef-37f9-4310-9572-148b18810ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::div[4]</value>
+      <webElementGuid>bc333305-7a05-4cbf-8fa5-00ebb01e7dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('708 O', &quot;'&quot;, 'Keefe Stravenue, Cleta Ridge, Sallyland, Nakiaborough, Denesikburgh, 4215')])[1]/preceding::div[4]</value>
+      <webElementGuid>d400ab80-14cd-4c68-85d4-35866169432f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>7b1e4b8a-78a1-4c55-a2a3-361d4665af5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Destination Address' or . = 'Select Destination Address')]</value>
+      <webElementGuid>a88b395a-383a-4863-8e08-4d70a6d8b677</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

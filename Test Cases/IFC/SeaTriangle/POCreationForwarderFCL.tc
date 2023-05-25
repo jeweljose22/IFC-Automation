@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>POCreationForwarderFCL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2044a22-bdb9-4550-8516-d4c2e32df123</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4868b014-2446-475b-9481-778cab71cbe9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b778ec2b-c4be-4898-80a2-73789e51593f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'New enterprices'</defaultValue>
+      <description></description>
+      <id>4868b014-2446-475b-9481-778cab71cbe9</id>
+      <masked>false</masked>
+      <name>clientName</name>
+   </variable>
+   <variable>
+      <defaultValue>'10001 MILES LIMITED'</defaultValue>
+      <description></description>
+      <id>b778ec2b-c4be-4898-80a2-73789e51593f</id>
+      <masked>false</masked>
+      <name>vendorName</name>
+   </variable>
+</TestCaseEntity>

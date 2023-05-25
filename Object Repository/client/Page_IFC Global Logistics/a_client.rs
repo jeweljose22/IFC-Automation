@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_client</name>
+   <tag></tag>
+   <elementGuidId>a5b7d6b6-e3ab-47d9-af25-fb400b4f889b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-item.app-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[3]/div/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1ffb179a-c0c0-47db-a3e5-678e981c07c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item app-btn</value>
+      <webElementGuid>75111eb4-ae96-40d5-b9e5-0b1be06e5563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>client</value>
+      <webElementGuid>c1890afe-c45f-4a57-a2d4-c55865cc3dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;dropdown-wrap menu-down  dropdown-open  user-menu-dropdown&quot;]/div[@class=&quot;dropdown-menu&quot;]/div[@class=&quot;dropdown-wrap menu-down  menu-item switch-link&quot;]/div[@class=&quot;dropdown-menu switch-sub-menu&quot;]/a[@class=&quot;menu-item app-btn&quot;]</value>
+      <webElementGuid>8f4c3d41-e84e-44ab-a6e6-800fe9036b9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[3]/div/div[2]/div/a</value>
+      <webElementGuid>c5989dc9-ce1f-4d24-ab59-ed685c85c42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Profile'])[2]/following::a[1]</value>
+      <webElementGuid>1dc70022-b693-45a5-9916-d5318d4d795f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anjana.p+10013@experionglobal.com'])[1]/following::a[1]</value>
+      <webElementGuid>c816da43-0083-40ae-944a-cb029595e686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='forwarder'])[1]/preceding::a[1]</value>
+      <webElementGuid>246ae48d-6f89-4acf-80ec-eb249fb20ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/a</value>
+      <webElementGuid>39af9a03-7496-4694-a25a-b1de7515a50e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'client' or . = 'client')]</value>
+      <webElementGuid>916f6ec8-3598-4744-b430-8d0246aa3b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

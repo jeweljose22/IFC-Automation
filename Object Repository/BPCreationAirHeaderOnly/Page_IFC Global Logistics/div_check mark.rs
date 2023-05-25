@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_check mark</name>
+   <tag></tag>
+   <elementGuidId>360f8139-aa74-49cf-bf26-26055fed9545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[1]/td/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d0d9e38-8f47-4988-9cf9-7714a2019b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark</value>
+      <webElementGuid>b200aa24-2619-4e63-b548-e3333d6114a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>check mark</value>
+      <webElementGuid>b6888711-1eba-41b7-9b24-f57b2735e3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper po-selection-grid&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content-holder&quot;]/div[@class=&quot;grid-section grid-available-booking&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid-scroll-content&quot;]/table[@class=&quot;grid-table&quot;]/tbody[1]/tr[@class=&quot;has-child row-expanded&quot;]/td[@class=&quot;grid-cell undefined&quot;]/div[@class=&quot;grid-cell-data centre-align&quot;]/label[@class=&quot;app-check-wrapper&quot;]/div[@class=&quot;checkmark&quot;]</value>
+      <webElementGuid>9e1b96c2-b047-4197-83d7-4fbc7a833530</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div[2]/div/table/tbody/tr[2]/td/div/label/div</value>
+      <webElementGuid>9c955b72-2fa7-4be7-be93-0bdee0f74257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aru lauter(EEAUL)'])[1]/following::div[3]</value>
+      <webElementGuid>fc564b76-1071-44ef-8402-cf0958563f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melbourne(AUMEL)'])[1]/following::div[4]</value>
+      <webElementGuid>a7a1814e-6d11-4c04-bba9-b69ed1ba0559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO-TEST-1017'])[1]/preceding::div[1]</value>
+      <webElementGuid>2081cda5-74ee-4e1a-8b1d-f4438beaa7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New enterprices'])[1]/preceding::div[4]</value>
+      <webElementGuid>7f5c4c76-591d-42e8-a5ff-ca1f0b1d5fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/label/div</value>
+      <webElementGuid>79df2738-e58b-4d5e-997e-3fd8e8b07d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'check mark' or . = 'check mark')]</value>
+      <webElementGuid>62945fce-d565-4010-9378-38d3c03c21ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

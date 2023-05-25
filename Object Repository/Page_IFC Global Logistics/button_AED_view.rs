@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AED_view</name>
+   <tag></tag>
+   <elementGuidId>f552c200-f80c-4bed-9e8d-3050a06e8cb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/table/tbody/tr/td[10]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>002613ff-0490-47a9-89d6-b4e82241e8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-btn app-btn app-btn-secondary </value>
+      <webElementGuid>59c5f7bc-e1cb-4fdb-9259-d4d5fb08e2b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>View SKU Details</value>
+      <webElementGuid>21caad74-d020-4878-8fed-75048ecef60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/table[@class=&quot;grid-table&quot;]/tbody[1]/tr[@class=&quot;has-child row-expanded&quot;]/td[@class=&quot;grid-cell buttons-col-align grid-sticky-column sticky-right-aligned&quot;]/div[@class=&quot;grid-cell-data&quot;]/button[@class=&quot;action-btn app-btn app-btn-secondary&quot;]</value>
+      <webElementGuid>eaacd9af-5e08-459e-8438-605c758c7b28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/table/tbody/tr/td[10]/div/button[3]</value>
+      <webElementGuid>58f12956-d485-4cb6-9243-5c0705f0e967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AED'])[1]/following::button[3]</value>
+      <webElementGuid>3f5abaa6-83b9-48d4-a75b-29229439ad45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/following::button[3]</value>
+      <webElementGuid>f499af70-21bc-4211-984e-32ff626cf523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('9699 O', &quot;'&quot;, 'Conner Circle, Waters Ports, Huntington, Kerlukestad, Laurettaport, 4215')])[1]/preceding::button[1]</value>
+      <webElementGuid>5cff013b-7e08-4c89-96ef-e9e70634bc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::button[1]</value>
+      <webElementGuid>ba8ab798-f9a5-4c50-8f50-42a2e1ff407d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>fb401b20-6c92-4ffb-8d1c-7799bf3ada6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'View SKU Details']</value>
+      <webElementGuid>5cfe7f73-8c0e-4d33-a1d4-6ad4b9c25272</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

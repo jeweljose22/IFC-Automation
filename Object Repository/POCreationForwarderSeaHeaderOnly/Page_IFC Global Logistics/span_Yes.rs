@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>450029b9-e4e9-440d-9b41-03cc4d164179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-primary.modal-btn > span.button-text.vendor-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[6]/div/div[3]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>89f304d5-9ede-4228-9885-e8bfa6ead6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text vendor-button-text</value>
+      <webElementGuid>9ee983bb-bd51-4f3b-934d-d196d6274459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>8068bba4-1d64-49c6-9cfa-15761945c66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-wrapper&quot;]/div[@class=&quot;app-modal container&quot;]/div[@class=&quot;modal-content-holder modal-medium-width&quot;]/div[@class=&quot;modal-footer skip-action&quot;]/button[@class=&quot;app-btn app-btn-primary modal-btn&quot;]/span[@class=&quot;button-text vendor-button-text&quot;]</value>
+      <webElementGuid>6e5c326a-43f3-4bf1-94b7-62263cf73df7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[6]/div/div[3]/button[2]/span</value>
+      <webElementGuid>80dd41da-2e84-4379-ae07-4f03929a27c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::span[1]</value>
+      <webElementGuid>f720e710-45b4-41b9-bf5e-17dc15b9aaa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip PO Line Addition'])[2]/following::span[3]</value>
+      <webElementGuid>dea5216e-3723-4cee-88e8-944ca8c163b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>d32a6cfe-5654-4dc8-9115-0d3e3137a19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span</value>
+      <webElementGuid>6bc03418-4859-4705-9116-7222649bba0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>9762ce63-cdda-44b5-bce7-9ff4b9f9df7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

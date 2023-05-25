@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Use Existing Schedule18</name>
+   <tag></tag>
+   <elementGuidId>94e62ca6-9804-49a3-870b-3575101c7e22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div[2]/div[2]/label/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82844af9-d8db-412b-8c80-92a74f1ef377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox-label</value>
+      <webElementGuid>f07a20e7-c2f4-4716-a118-15395c322851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use Existing Schedule18</value>
+      <webElementGuid>d09a91fc-51a3-4304-a07b-aa01554fca19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container booking-change-vessel&quot;]/div[@class=&quot;content-section main-wrapper change-vessel-detail air-booking-manual&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;manual-entry-wrapper&quot;]/div[@class=&quot;card details-box custom&quot;]/div[@class=&quot;filter-type-holder&quot;]/div[@class=&quot;checkbox-item&quot;]/label[@class=&quot;app-check-wrapper&quot;]/div[@class=&quot;checkbox-label&quot;]</value>
+      <webElementGuid>e75afc90-f07c-45a7-8298-8d155b36bfd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div[2]/div[2]/label/div[2]</value>
+      <webElementGuid>446cd4ad-26d1-42f6-b5f8-54edfab0cc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Schedule'])[1]/following::div[3]</value>
+      <webElementGuid>b1dd6c3d-9961-4252-98de-c6bf3bf4a176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Schedules'])[2]/following::div[7]</value>
+      <webElementGuid>ff7903c0-cc47-412d-8d54-062435883a4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AIR INDIAQ'])[1]/preceding::div[2]</value>
+      <webElementGuid>24908554-50a7-4c73-b945-85017d3d4e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MK011'])[1]/preceding::div[3]</value>
+      <webElementGuid>1b1aef71-e4eb-4dac-9d09-6fdf3e97c2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use Existing Schedule']/parent::*</value>
+      <webElementGuid>b1197fe7-5d2d-46cb-bce3-8f39d0d20442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div[2]</value>
+      <webElementGuid>3f62ea8d-8596-4ce3-9de8-443abf452bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Use Existing Schedule18' or . = 'Use Existing Schedule18')]</value>
+      <webElementGuid>494fa29d-3ab6-4058-8e96-cda6076a9d8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

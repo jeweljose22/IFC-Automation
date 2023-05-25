@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>POCreationEnrichmentSeaInternational</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>7</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c45ac241-070d-4b47-bd99-4f2f104c631e</testSuiteGuid>
+   <testCaseLink>
+      <guid>c9f30059-5d99-4864-8f27-7a85c6243bce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/IFC/SeaInternational/POCreationForwarder</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>66cfa50d-5023-42ee-99f2-e6165eec3e71</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>95c77a8d-40f6-4c42-9144-18fbe7d9f82a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>967e96b6-465e-4b8f-8d63-33a7b4fb399b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/IFC/SeaInternational/POEnrichmentAgent</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

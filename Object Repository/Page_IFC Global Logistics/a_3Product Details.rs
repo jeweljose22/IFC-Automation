@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3Product Details</name>
+   <tag></tag>
+   <elementGuidId>93b6abbb-41a4-4264-8367-8212415bae41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[3]/div/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>448843f4-3a86-47d6-813c-7478acb4da97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow-tab-border po-product-tab </value>
+      <webElementGuid>067d0326-51ee-4b9a-ab00-e3de8a945b8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/product_details</value>
+      <webElementGuid>74f5d15c-20f2-497b-bdbf-b19b9a3ce03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3Product Details</value>
+      <webElementGuid>31988677-7c03-41b6-ac00-8a20f6d9bc33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container purchase-dates-wrapper&quot;]/div[@class=&quot;main-header-content-holder large-header&quot;]/div[@class=&quot;arrow-tab-container&quot;]/div[@class=&quot;arrow-tab-holder&quot;]/a[@class=&quot;arrow-tab-border po-product-tab&quot;]</value>
+      <webElementGuid>036d1043-729b-47f4-8efb-4f0571f9f6de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[3]/div/a[3]</value>
+      <webElementGuid>0da4fb56-2725-42ff-b639-8a9ec663bc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[1]/following::a[1]</value>
+      <webElementGuid>1f8403f2-d259-4fc9-ab9e-663836394f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Details'])[1]/following::a[2]</value>
+      <webElementGuid>a951493e-c3eb-4c3c-a67a-5f2ec5737f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Preview'])[1]/preceding::a[1]</value>
+      <webElementGuid>a9f3183f-4128-4d61-aed4-076ba403e001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/product_details')]</value>
+      <webElementGuid>569ba9d3-5c96-4b83-875b-d558b6e95cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[3]</value>
+      <webElementGuid>9b4499c9-df05-4b68-9109-95528ca63380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/product_details' and (text() = '3Product Details' or . = '3Product Details')]</value>
+      <webElementGuid>c1d29c4f-0638-442a-9c2a-4934c03591c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

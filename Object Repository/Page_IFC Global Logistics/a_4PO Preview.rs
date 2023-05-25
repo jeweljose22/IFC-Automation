@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4PO Preview</name>
+   <tag></tag>
+   <elementGuidId>ae348f16-c4d6-4f25-9e9a-181c444695ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[3]/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c75d3e3-e74b-4a83-b23d-d43dfb936979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>arrow-tab-border po-review-tab </value>
+      <webElementGuid>0b6a9d20-fda6-47d7-96e8-c46fa4f1d8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/po_review</value>
+      <webElementGuid>483d9e8a-3664-486b-9acb-5e9d257e4a5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4PO Preview</value>
+      <webElementGuid>11dae853-7961-417d-91aa-04b28aa9996f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-wrapper&quot;]/div[@class=&quot;main-header-content-holder large-header&quot;]/div[@class=&quot;arrow-tab-container&quot;]/div[@class=&quot;arrow-tab-holder&quot;]/a[@class=&quot;arrow-tab-border po-review-tab&quot;]</value>
+      <webElementGuid>603663ee-9451-41e4-a362-21c39d597c22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[3]/div/a[4]</value>
+      <webElementGuid>af4bf0ae-bc1d-4b33-b220-41057e7f7c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details'])[1]/following::a[1]</value>
+      <webElementGuid>08e27a51-7f49-435c-8056-0d4ee3e6fbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[1]/following::a[2]</value>
+      <webElementGuid>5b05e0d4-3c5a-4611-995c-ec0edb9db18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header Only'])[1]/preceding::a[1]</value>
+      <webElementGuid>da2d228e-5e7d-4132-9403-263d3ce2c024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/po_review')]</value>
+      <webElementGuid>125a0425-0d29-4a39-b8fa-83c9af3614d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>13f18b6d-76cf-4b3c-a0f8-06b52db8029b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/purchase_order/4dfcac72-0be7-4c78-8d4b-3b1ddebcbd74/po_review' and (text() = '4PO Preview' or . = '4PO Preview')]</value>
+      <webElementGuid>193175bc-f04e-4575-ae6e-e432efb0f1ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Add Schedule</name>
+   <tag></tag>
+   <elementGuidId>be610a11-3f2e-4fc2-a8af-bcae280163a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.heading1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/button/div/div[2]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ce620ee7-7894-467c-b1aa-936c33485428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading1</value>
+      <webElementGuid>1715ef63-9233-46c7-9d65-d5dbe2167a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Schedule</value>
+      <webElementGuid>cda03e05-c704-4565-a800-47dbb1313e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-sailing-schelude&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;lcl-sailing-container&quot;]/div[@class=&quot;booking-sailing-schelude-container air-booking-sailing-schelude&quot;]/div[@class=&quot;air-sailing-btns-holder&quot;]/div[@class=&quot;lcl-sailing-add-btn-holder add-schelude-btn&quot;]/button[@class=&quot;app-btn add-btn-lcl&quot;]/div[@class=&quot;icon-content-wrapper&quot;]/div[@class=&quot;btn-content-holder&quot;]/h2[@class=&quot;heading1&quot;]</value>
+      <webElementGuid>b703323f-b43a-40a9-8753-375233b5b48c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/button/div/div[2]/h2</value>
+      <webElementGuid>7a060eee-28fc-414a-81e5-3f5e6ab99b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Schedules'])[1]/following::h2[1]</value>
+      <webElementGuid>b82b3cd2-0f3f-440d-b2b0-5e1e68108219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Selection'])[1]/following::h2[1]</value>
+      <webElementGuid>52316a43-c847-4a0a-899b-a39078ea0e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::h2[1]</value>
+      <webElementGuid>29039abe-0ac2-4838-a041-52e1ebed7bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit for Approval'])[1]/preceding::h2[1]</value>
+      <webElementGuid>23e95400-158b-46e2-89a8-106f7701ab7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Schedule']/parent::*</value>
+      <webElementGuid>29ea7fe6-062c-47d7-895d-05e62f4cd0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>393a4704-f42f-4228-8ae4-d8d3abc8cfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Add Schedule' or . = 'Add Schedule')]</value>
+      <webElementGuid>5872fa5a-0bdc-41ed-8531-43e7832be30e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

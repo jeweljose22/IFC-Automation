@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FCLConfirmed for BookingConfirmation Gr_6bb13f</name>
+   <tag></tag>
+   <elementGuidId>123da208-f66e-4d3c-9cde-6c97e5f39b21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-mode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5cae1c36-1538-4b7c-9a48-73d11d644797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-mode</value>
+      <webElementGuid>4b08bd55-14ef-4471-91b5-8b040b73f661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FCLConfirmed for BookingConfirmation Group 1Goods Ready Date : 25-02-2023CBM :102Destination :ShipBottom (USSBQ)PO lines :1</value>
+      <webElementGuid>386456d1-2de0-4dec-b0bc-aeaa6edbaa7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-confirmation&quot;]/div[@class=&quot;content-section main-wrapper&quot;]/div[@class=&quot;container-mode&quot;]</value>
+      <webElementGuid>d021df0a-0731-43e5-963c-08c6a23cdcfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div</value>
+      <webElementGuid>7559f75c-988d-4e20-8988-67970bac07fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Mode Selection'])[1]/following::div[2]</value>
+      <webElementGuid>131aed3e-6aee-44f8-b026-38fb862044e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Details Confirmation'])[1]/following::div[4]</value>
+      <webElementGuid>8a27de75-463b-4ca4-b3c3-ee8bd7cf13ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>2e115d3c-b0aa-45bd-83c7-dff65feaa947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FCLConfirmed for BookingConfirmation Group 1Goods Ready Date : 25-02-2023CBM :102Destination :ShipBottom (USSBQ)PO lines :1' or . = 'FCLConfirmed for BookingConfirmation Group 1Goods Ready Date : 25-02-2023CBM :102Destination :ShipBottom (USSBQ)PO lines :1')]</value>
+      <webElementGuid>52715963-8ec6-424d-825a-c6006f4c1923</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

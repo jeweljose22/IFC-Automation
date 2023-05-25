@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes</name>
+   <tag></tag>
+   <elementGuidId>9bd00db7-2f57-4be2-960a-058e7553387e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-primary.modal-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[6]/div/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84caee65-5645-45fc-b393-4ccfee5523ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-primary modal-btn</value>
+      <webElementGuid>f47aa8fd-9e18-4499-afdc-c371e410e110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>3f9d646a-a1c8-4343-b5e0-8f1de50efa08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container product-details-wrapper&quot;]/div[@class=&quot;app-modal container&quot;]/div[@class=&quot;modal-content-holder modal-medium-width&quot;]/div[@class=&quot;modal-footer skip-action&quot;]/button[@class=&quot;app-btn app-btn-primary modal-btn&quot;]</value>
+      <webElementGuid>44a8ee3c-d879-41ca-89ab-40ce645d6b05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[6]/div/div[3]/button[2]</value>
+      <webElementGuid>313685ef-408a-4332-9c2e-e96aed99ba02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
+      <webElementGuid>96eb9f92-d54a-4f5a-9207-b9d026f7e923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip PO Line Addition'])[2]/following::button[3]</value>
+      <webElementGuid>a1536521-bd95-4d7b-98d9-ba852a3c0525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates have been added'])[1]/preceding::button[1]</value>
+      <webElementGuid>dc796b18-777a-4d1c-915b-61323256fcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>8abf1aa7-89b2-4994-98f1-54cd66d48b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>5eda17f3-4f36-45e2-8955-bac5caeb8c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

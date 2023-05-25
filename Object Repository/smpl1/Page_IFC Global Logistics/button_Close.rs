@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>e646414e-1063-4c31-842d-2dcc6fcc2794</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.filter-close-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f412d551-6e56-4ccd-9fb9-89445cec57c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn filter-close-btn</value>
+      <webElementGuid>e4ca1815-28f1-4a6f-9988-d7991a5b7b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>181a9193-962b-4905-892d-81c8d07736a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;content-section main-wrapper bo-sailing-schelude&quot;]/div[@class=&quot;main-wrapper&quot;]/div[1]/div[@class=&quot;booking-sailing-schelude-container&quot;]/div[@class=&quot;sailing-left-section active&quot;]/div[@class=&quot;filter-link-holder&quot;]/button[@class=&quot;app-btn filter-close-btn&quot;]</value>
+      <webElementGuid>fcfef46c-7179-4957-bfcb-e5049b6d462c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>51e70def-b2b4-451d-a45d-d51686eda739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
+      <webElementGuid>ab6f28c2-fffe-476a-8d93-fd400de1e54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::button[1]</value>
+      <webElementGuid>ee5f7142-7315-4d32-ab89-51a4d3d4f470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Type'])[1]/preceding::button[1]</value>
+      <webElementGuid>e5271b46-b4c5-4c52-b07a-4efeb19802ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAC'])[1]/preceding::button[1]</value>
+      <webElementGuid>44f735d2-4d33-4e1a-b1a1-a3e84521d371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>e47256f0-60ab-4f39-a373-2c1aada15cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>7cd5c67d-e582-44cb-9d58-3c080696b912</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

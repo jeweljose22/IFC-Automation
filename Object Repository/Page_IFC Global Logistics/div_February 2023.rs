@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_February 2023</name>
+   <tag></tag>
+   <elementGuidId>30bc1c3d-e07c-481f-9309-f1061222f851</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker__current-month</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='date-portal']/div/div/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>709b95fa-8b49-40ed-bc5a-bda05c39fbcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__current-month</value>
+      <webElementGuid>a8d7181c-2158-4fc5-9921-658438bb008c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>February 2023</value>
+      <webElementGuid>9d47cb5d-a08f-445e-8344-3d24aa93ccff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;date-portal&quot;)/div[1]/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__header&quot;]/div[@class=&quot;react-datepicker__current-month&quot;]</value>
+      <webElementGuid>80bb3ea7-ac7d-4a41-a110-1892c5760ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='date-portal']/div/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>7f15f437-298f-4cc6-9783-421f4c6920d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Month'])[1]/following::div[3]</value>
+      <webElementGuid>138473dc-afa3-4c82-abe1-77bebcb75a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[11]</value>
+      <webElementGuid>ee4eb299-f4ba-479f-bea2-ab432ed0acc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::div[2]</value>
+      <webElementGuid>d2d99657-fa11-454f-b2d2-c362f3abfa9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::div[3]</value>
+      <webElementGuid>8319bd95-9b62-42b5-a976-4c3888d21c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='February 2023']/parent::*</value>
+      <webElementGuid>6b601deb-1131-4dac-a18f-6b3f38ccc68b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>445b000a-5654-44c0-9a1e-f6b7a49fc0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'February 2023' or . = 'February 2023')]</value>
+      <webElementGuid>10f187c5-979a-4ab4-b295-d613896861b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

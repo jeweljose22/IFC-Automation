@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AgentGROCERY CORPORATION</name>
+   <tag></tag>
+   <elementGuidId>fda6c275-27d0-4752-8c66-5476b6bab84a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='basicForm']/div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0340101-6a4b-4f44-a2fe-0859028eea88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> modal-input-holder</value>
+      <webElementGuid>f33e5dbc-72bc-4799-bdcd-09f6c79d96e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agent*GROCERY CORPORATION</value>
+      <webElementGuid>a5597423-c176-42b9-ad46-beb6960d2ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-wrapper container&quot;]/div[@class=&quot;app-modal purchase-detail-modal&quot;]/div[@class=&quot;modal-content-holder medium-popup&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-main-content&quot;]/form[@id=&quot;basicForm&quot;]/div[@class=&quot;modal-input-holder&quot;]</value>
+      <webElementGuid>edc2c0b0-4a53-40e8-9211-26fc3a9f9861</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basicForm']/div[10]</value>
+      <webElementGuid>6ce935e2-dfcc-49d8-8742-2b384f74320f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Payment Term'])[1]/following::div[3]</value>
+      <webElementGuid>1d9e4bec-6603-41ae-87fa-26fb276a274d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Term'])[1]/following::div[7]</value>
+      <webElementGuid>4fcd617b-de37-4fdd-ac3b-5247b60e151e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[10]</value>
+      <webElementGuid>1819f925-0a9e-4b23-82fd-df03ca66b683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Agent*GROCERY CORPORATION' or . = 'Agent*GROCERY CORPORATION')]</value>
+      <webElementGuid>10daf844-f539-4266-846b-c69494be2029</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Switch ProfileSwitch ProfileExpand row</name>
+   <tag></tag>
+   <elementGuidId>10cf36b4-f541-40f4-9ebc-e1897bd8e7a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.app-btn.app-btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[3]/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51532549-04e4-4c03-840a-ad1dff0e682b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-btn app-btn-secondary</value>
+      <webElementGuid>784e654e-1182-48f6-b780-aafcf060a0d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Switch ProfileSwitch ProfileExpand row</value>
+      <webElementGuid>62690e86-e410-4bdd-8aef-2b673630c4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header-right&quot;]/div[@class=&quot;dropdown-wrap menu-down  dropdown-open  user-menu-dropdown&quot;]/div[@class=&quot;dropdown-menu&quot;]/div[@class=&quot;dropdown-wrap menu-down  menu-item switch-link&quot;]/button[@class=&quot;app-btn app-btn-secondary&quot;]</value>
+      <webElementGuid>8bb614fb-cb86-4844-aeb4-67e975067d10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[3]/div/div[2]/button</value>
+      <webElementGuid>8d560951-0fef-4bb2-b57f-80c42f0154d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anjana.p+10013@experionglobal.com'])[1]/following::button[1]</value>
+      <webElementGuid>da5a6a61-aff4-46e2-a0ee-e21c2d888ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='John Mia'])[1]/following::button[1]</value>
+      <webElementGuid>6885b4b6-f89a-472c-b833-8b9d789d7017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[2]/preceding::button[1]</value>
+      <webElementGuid>35eb6dea-2251-4712-a04a-fa96333245eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>91308409-f04c-4175-a1c3-bfbd557851ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Switch ProfileSwitch ProfileExpand row' or . = 'Switch ProfileSwitch ProfileExpand row')]</value>
+      <webElementGuid>7e62a08b-51e6-4c96-9f5d-d5f55360289b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

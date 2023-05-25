@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter Client Name to select</name>
+   <tag></tag>
+   <elementGuidId>34c4b905-544b-47c2-8332-f4b40e262ed5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__value-container.css-1d8n9bt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='my-form']/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc329212-f478-4c9d-ab9e-2ec43a3c5163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container css-1d8n9bt</value>
+      <webElementGuid>8b2f6335-5644-4698-bd89-210250cffa67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter Client Name to select</value>
+      <webElementGuid>38a47f40-9938-4a5b-a290-307eaa3eaa91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-form&quot;)/div[@class=&quot;modal-input-holder layout-item&quot;]/div[@class=&quot;modal-input-layout-item&quot;]/div[@class=&quot;react-select css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1gpebql-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]</value>
+      <webElementGuid>d039c3b9-b9db-49b3-aca4-c34788628338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='my-form']/div[2]/div/div/div/div</value>
+      <webElementGuid>13b929e9-9bcb-46b2-b008-8c1bdd522e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Name'])[1]/following::div[4]</value>
+      <webElementGuid>484ced91-429b-42ee-9ee9-d47fdcd70d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Number'])[1]/following::div[6]</value>
+      <webElementGuid>7f06447d-ed77-4600-87fc-f333573f9bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GOLD CHECK INDUSTRIAL LTD'])[1]/preceding::div[4]</value>
+      <webElementGuid>c681cd92-8d0a-47d0-b551-a678e7be6b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div</value>
+      <webElementGuid>bd1f7b84-d389-49d3-b773-7e8f96c024ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enter Client Name to select' or . = 'Enter Client Name to select')]</value>
+      <webElementGuid>6cec8f44-d42c-4c77-ad3a-ec20b7b19005</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
