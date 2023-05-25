@@ -30,7 +30,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_IFC Global Logisti
 
 WebUI.click(findTestObject('Object Repository/Page_IFC Global Logistics - Sign In/button_Sign In'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_IFC Global Logistics/h1_Dashboard'), 1)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_IFC Global Logistics/h1_Dashboard'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_IFC Global Logistics/span_User details'))
 
