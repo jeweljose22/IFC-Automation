@@ -30,12 +30,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_IFC Global Logisti
 
 WebUI.click(findTestObject('Object Repository/Page_IFC Global Logistics - Sign In/button_Sign In'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_IFC Global Logistics/h1_Dashboard'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_IFC Global Logistics/h1_Dashboard'), 1)
 
 WebUI.click(findTestObject('Object Repository/Page_IFC Global Logistics/span_User details'))
 
 WebUI.click(findTestObject('Object Repository/Page_IFC Global Logistics/span_Logout'))
-
 
 //WebUI.click(findTestObject('Object Repository/POCreationForwarderAirInternational/Page_IFC Global Logistics/a_Forwardingdropdown'))
 //
@@ -44,8 +43,6 @@ WebUI.click(findTestObject('Object Repository/Page_IFC Global Logistics/span_Log
 //
 //WebUI.setText(findTestObject('Object Repository/POCreationForwarder/Page_IFC Global Logistics/input_Purchase Orders_search-input input-text'),
 //	GlobalVariable.POId)
-
-
 WebUI.delay(20)
 
 WebUI.closeBrowser()
